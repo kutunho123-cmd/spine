@@ -1,0 +1,89 @@
+{ "skeleton": { "images": "C:/Users/ADMIN/Desktop/40 Spine/test/Ân Ly/Show_To/11/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 21", "bone": "root", "attachment": "Layer 21" },
+	{ "name": "Layer 11", "bone": "root", "attachment": "Layer 11" },
+	{ "name": "Layer 25", "bone": "root", "attachment": "Layer 25" },
+	{ "name": "Layer 16", "bone": "root", "attachment": "Layer 16" },
+	{ "name": "Layer 24", "bone": "root", "attachment": "Layer 24" },
+	{ "name": "Layer 22", "bone": "root", "attachment": "Layer 22" },
+	{ "name": "Layer 17", "bone": "root", "attachment": "Layer 17" },
+	{ "name": "Generative Fill copy", "bone": "root", "attachment": "Generative Fill copy" },
+	{ "name": "Layer 19", "bone": "root", "attachment": "Layer 19" },
+	{ "name": "Layer 15", "bone": "root", "attachment": "Layer 15" },
+	{ "name": "Generative Fill 2", "bone": "root", "attachment": "Generative Fill 2" },
+	{ "name": "Generative Fill", "bone": "root" },
+	{ "name": "Layer 10", "bone": "root", "attachment": "Layer 10" },
+	{ "name": "Layer 24 copy", "bone": "root", "attachment": "Layer 24 copy" },
+	{ "name": "Layer 26", "bone": "root", "attachment": "Layer 26" },
+	{ "name": "Layer 9", "bone": "root", "attachment": "Layer 9" },
+	{ "name": "Layer 23", "bone": "root", "attachment": "Layer 23" },
+	{ "name": "Layer 2", "bone": "root" },
+	{ "name": "Layer 2 copy", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Layer 21": {
+			"Layer 21": { "x": 2168, "y": -1338.5, "width": 194, "height": 129 }
+		},
+		"Layer 11": {
+			"Layer 11": { "x": 2272, "y": -991.5, "width": 770, "height": 793 }
+		},
+		"Layer 25": {
+			"Layer 25": { "x": 1976.5, "y": -1069.5, "width": 471, "height": 661 }
+		},
+		"Layer 16": {
+			"Layer 16": { "x": 2169.5, "y": -910.5, "width": 249, "height": 267 }
+		},
+		"Layer 24": {
+			"Layer 24": { "x": 1730.5, "y": -691.5, "width": 317, "height": 429 }
+		},
+		"Layer 22": {
+			"Layer 22": { "x": 2337.5, "y": -1051, "width": 207, "height": 128 }
+		},
+		"Layer 17": {
+			"Layer 17": { "x": 2082.5, "y": -1145, "width": 161, "height": 342 }
+		},
+		"Generative Fill copy": {
+			"Generative Fill copy": { "x": 888.5, "y": -981, "width": 1293, "height": 1172 }
+		},
+		"Layer 19": {
+			"Layer 19": { "x": 622.5, "y": -1240, "width": 213, "height": 530 }
+		},
+		"Layer 15": {
+			"Layer 15": { "x": 2022.5, "y": -932, "width": 229, "height": 192 }
+		},
+		"Generative Fill 2": {
+			"Generative Fill 2": { "x": 1936, "y": -866.5, "width": 390, "height": 315 }
+		},
+		"Generative Fill": {
+			"Generative Fill": { "x": 2448.5, "y": -943, "width": 1293, "height": 1172 }
+		},
+		"Layer 10": {
+			"Layer 10": { "x": 1909.5, "y": -1064, "width": 293, "height": 464 }
+		},
+		"Layer 24 copy": {
+			"Layer 24 copy": { "x": 1807, "y": -612, "width": 130, "height": 282 }
+		},
+		"Layer 26": {
+			"Layer 26": { "x": 1783.5, "y": -805.5, "width": 203, "height": 129 }
+		},
+		"Layer 9": {
+			"Layer 9": { "x": 1859.5, "y": -837, "width": 249, "height": 248 }
+		},
+		"Layer 23": {
+			"Layer 23": { "x": 1740.5, "y": -971, "width": 345, "height": 962 }
+		},
+		"Layer 2": {
+			"Layer 2": { "x": 2429, "y": -1056, "width": 1354, "height": 1124 }
+		},
+		"Layer 2 copy": {
+			"Layer 2 copy": { "x": 971, "y": -1104, "width": 1354, "height": 1124 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

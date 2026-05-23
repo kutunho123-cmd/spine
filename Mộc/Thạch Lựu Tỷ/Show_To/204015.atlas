@@ -1,0 +1,348 @@
+204015.png
+size: 403,1185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qing_cheng_0
+  rotate: 270
+  xy: 130, 69
+  size: 49, 128
+  orig: 51, 139
+  offset: 0, 0
+  index: -1
+qing_cheng_1
+  rotate: false
+  xy: 1, 6
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+qing_cheng_10
+  rotate: false
+  xy: 314, 1145
+  size: 70, 40
+  orig: 81, 41
+  offset: 11, 1
+  index: -1
+qing_cheng_11
+  rotate: true
+  xy: 343, 422
+  size: 141, 50
+  orig: 141, 50
+  offset: 0, 0
+  index: -1
+qing_cheng_12
+  rotate: 180
+  xy: 185, 1070
+  size: 186, 109
+  orig: 208, 109
+  offset: 9, 0
+  index: -1
+qing_cheng_13
+  rotate: false
+  xy: 294, 331
+  size: 103, 54
+  orig: 118, 57
+  offset: 2, 3
+  index: -1
+qing_cheng_14
+  rotate: 180
+  xy: 124, 361
+  size: 227, 147
+  orig: 227, 147
+  offset: 0, 0
+  index: -1
+qing_cheng_15
+  rotate: false
+  xy: 1, 943
+  size: 11, 80
+  orig: 11, 80
+  offset: 0, 0
+  index: -1
+qing_cheng_16
+  rotate: false
+  xy: 192, 2
+  size: 135, 28
+  orig: 135, 28
+  offset: 0, 0
+  index: -1
+qing_cheng_17
+  rotate: true
+  xy: 151, 837
+  size: 164, 65
+  orig: 183, 67
+  offset: 19, 2
+  index: -1
+qing_cheng_18
+  rotate: 270
+  xy: 1, 78
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: -1
+qing_cheng_19
+  rotate: false
+  xy: 72, 47
+  size: 157, 34
+  orig: 157, 34
+  offset: 0, 0
+  index: -1
+qing_cheng_2
+  rotate: false
+  xy: 368, 565
+  size: 31, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+qing_cheng_20
+  rotate: true
+  xy: 252, 91
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+qing_cheng_21
+  rotate: false
+  xy: 1, 151
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+qing_cheng_27
+  rotate: true
+  xy: 110, 281
+  size: 103, 241
+  orig: 103, 256
+  offset: 0, 15
+  index: -1
+qing_cheng_28
+  rotate: true
+  xy: 1, 302
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1
+qing_cheng_29
+  rotate: false
+  xy: 268, 549
+  size: 98, 164
+  orig: 98, 164
+  offset: 0, 0
+  index: -1
+qing_cheng_3
+  rotate: 180
+  xy: 284, 26
+  size: 117, 57
+  orig: 117, 57
+  offset: 0, 0
+  index: -1
+qing_cheng_30
+  rotate: 180
+  xy: 318, 942
+  size: 69, 157
+  orig: 69, 163
+  offset: 0, 0
+  index: -1
+qing_cheng_31
+  rotate: 270
+  xy: 1, 229
+  size: 75, 127
+  orig: 75, 127
+  offset: 0, 0
+  index: -1
+qing_cheng_32
+  rotate: false
+  xy: 95, 115
+  size: 126, 53
+  orig: 138, 53
+  offset: 12, 0
+  index: -1
+qing_cheng_33
+  rotate: 180
+  xy: 267, 149
+  size: 112, 100
+  orig: 170, 103
+  offset: 46, 3
+  index: -1
+qing_cheng_34
+  rotate: 180
+  xy: 9, 44
+  size: 66, 72
+  orig: 78, 80
+  offset: 0, 8
+  index: -1
+qing_cheng_35
+  rotate: false
+  xy: 1, 450
+  size: 204, 734
+  orig: 224, 734
+  offset: 20, 0
+  index: -1
+qing_cheng_36
+  rotate: false
+  xy: 81, 1162
+  size: 40, 23
+  orig: 46, 29
+  offset: 0, 6
+  index: -1
+qing_cheng_37
+  rotate: true
+  xy: 1, 820
+  size: 66, 16
+  orig: 73, 23
+  offset: 5, 7
+  index: -1
+qing_cheng_38
+  rotate: false
+  xy: 1, 1023
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+qing_cheng_39
+  rotate: true
+  xy: 1, 1057
+  size: 128, 101
+  orig: 141, 107
+  offset: 13, 3
+  index: -1
+qing_cheng_4
+  rotate: true
+  xy: 86, 3
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+qing_cheng_40
+  rotate: false
+  xy: 115, 4
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+qing_cheng_41
+  rotate: false
+  xy: 329, 14
+  size: 56, 10
+  orig: 56, 10
+  offset: 0, 0
+  index: -1
+qing_cheng_42
+  rotate: true
+  xy: 315, 838
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+qing_cheng_43
+  rotate: true
+  xy: 272, 704
+  size: 115, 116
+  orig: 121, 130
+  offset: 6, 0
+  index: -1
+qing_cheng_44
+  rotate: true
+  xy: 259, 44
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+qing_cheng_45
+  rotate: false
+  xy: 173, 995
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+qing_cheng_46
+  rotate: 270
+  xy: 107, 580
+  size: 265, 167
+  orig: 494, 201
+  offset: 0, 0
+  index: -1
+qing_cheng_47
+  rotate: 270
+  xy: 353, 91
+  size: 122, 44
+  orig: 122, 44
+  offset: 0, 0
+  index: -1
+qing_cheng_48
+  rotate: 180
+  xy: 194, 205
+  size: 165, 106
+  orig: 165, 106
+  offset: 0, 0
+  index: -1
+qing_cheng_49
+  rotate: false
+  xy: 127, 139
+  size: 138, 119
+  orig: 326, 125
+  offset: 78, 0
+  index: -1
+qing_cheng_5
+  rotate: false
+  xy: 369, 249
+  size: 27, 66
+  orig: 27, 71
+  offset: 0, 4
+  index: -1
+qing_cheng_50
+  rotate: false
+  xy: 353, 317
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+qing_cheng_51
+  rotate: false
+  xy: 154, 1008
+  size: 63, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+qing_cheng_52
+  rotate: false
+  xy: 276, 1173
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+qing_cheng_6
+  rotate: false
+  xy: 323, 387
+  size: 75, 21
+  orig: 75, 21
+  offset: 0, 0
+  index: -1
+qing_cheng_7
+  rotate: false
+  xy: 366, 613
+  size: 25, 52
+  orig: 25, 53
+  offset: 0, 1
+  index: -1
+qing_cheng_8
+  rotate: false
+  xy: 365, 1097
+  size: 25, 45
+  orig: 25, 53
+  offset: 0, 8
+  index: -1
+qing_cheng_9
+  rotate: false
+  xy: 1, 887
+  size: 15, 54
+  orig: 15, 54
+  offset: 0, 0
+  index: -1
+shoujuan5_01
+  rotate: 180
+  xy: 179, 796
+  size: 171, 301
+  orig: 281, 329
+  offset: 0, 0
+  index: -1

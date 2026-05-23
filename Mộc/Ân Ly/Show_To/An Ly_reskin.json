@@ -1,0 +1,165 @@
+{ "skeleton": { "images": "D:/Spine/Spine/Ân Ly/Ân Ly/Ân Ly/Show_To/export/reskin/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 1 copy", "bone": "root", "attachment": "Layer 1 copy" },
+	{ "name": "mau", "bone": "root", "attachment": "mau" },
+	{ "name": "arm_r", "bone": "root", "attachment": "arm_r" },
+	{ "name": "arm_r_forearm", "bone": "root", "attachment": "arm_r_forearm" },
+	{ "name": "leg_upper_foot", "bone": "root", "attachment": "leg_upper_foot" },
+	{ "name": "Layer 11", "bone": "root", "attachment": "Layer 11" },
+	{ "name": "skirt_back", "bone": "root", "attachment": "skirt_back" },
+	{ "name": "leg_front2", "bone": "root", "attachment": "leg_front2" },
+	{ "name": "Layer 24", "bone": "root", "attachment": "Layer 24" },
+	{ "name": "leg_front_foot", "bone": "root", "attachment": "leg_front_foot" },
+	{ "name": "leg_upper2", "bone": "root", "attachment": "leg_upper2" },
+	{ "name": "leg_upper", "bone": "root", "attachment": "leg_upper" },
+	{ "name": "leg_front", "bone": "root", "attachment": "leg_front" },
+	{ "name": "skirt_d", "bone": "root", "attachment": "skirt_d" },
+	{ "name": "belt", "bone": "root", "attachment": "belt" },
+	{ "name": "clothes_r", "bone": "root", "attachment": "clothes_r" },
+	{ "name": "skirt_up", "bone": "root", "attachment": "skirt_up" },
+	{ "name": "clothes_l", "bone": "root", "attachment": "clothes_l" },
+	{ "name": "arm_l_", "bone": "root", "attachment": "arm_l_" },
+	{ "name": "arm_l_forearm", "bone": "root", "attachment": "arm_l_forearm" },
+	{ "name": "hair_back", "bone": "root", "attachment": "hair_back" },
+	{ "name": "hair_back_up", "bone": "root", "attachment": "hair_back_up" },
+	{ "name": "neck", "bone": "root", "attachment": "neck" },
+	{ "name": "face", "bone": "root", "attachment": "face" },
+	{ "name": "hair_front", "bone": "root", "attachment": "hair_front" },
+	{ "name": "hair_front_r", "bone": "root", "attachment": "hair_front_r" },
+	{ "name": "hair_front_l", "bone": "root", "attachment": "hair_front_l" },
+	{ "name": "lua_lon_l", "bone": "root", "attachment": "lua_lon_l" },
+	{ "name": "lua_lon_r", "bone": "root", "attachment": "lua_lon_r" },
+	{ "name": "ghe", "bone": "root", "attachment": "ghe" },
+	{ "name": "lua vang_l4", "bone": "root", "attachment": "lua vang_l4" },
+	{ "name": "lua vang_l3", "bone": "root", "attachment": "lua vang_l3" },
+	{ "name": "lua vang_r2", "bone": "root", "attachment": "lua vang_r2" },
+	{ "name": "lua vang_r", "bone": "root", "attachment": "lua vang_r" },
+	{ "name": "lua tim_r", "bone": "root", "attachment": "lua tim_r" },
+	{ "name": "lua tim_l", "bone": "root", "attachment": "lua tim_l" },
+	{ "name": "lua vang_l2", "bone": "root", "attachment": "lua vang_l2" },
+	{ "name": "lua vang_l", "bone": "root", "attachment": "lua vang_l" }
+],
+"skins": {
+	"default": {
+		"Layer 1 copy": {
+			"Layer 1 copy": { "x": -181.5, "y": 661, "width": 5493, "height": 1838 }
+		},
+		"mau": {
+			"mau": { "x": 146.5, "y": 598, "width": 1293, "height": 1172 }
+		},
+		"arm_r": {
+			"arm_r": { "x": 1116.5, "y": 950, "width": 173, "height": 166 }
+		},
+		"arm_r_forearm": {
+			"arm_r_forearm": { "x": 1214.5, "y": 974, "width": 147, "height": 238 }
+		},
+		"leg_upper_foot": {
+			"leg_upper_foot": { "x": 1434, "y": 220.5, "width": 194, "height": 129 }
+		},
+		"Layer 11": {
+			"Layer 11": { "x": 1530, "y": 587.5, "width": 770, "height": 793 }
+		},
+		"skirt_back": {
+			"skirt_back": { "x": 1234.5, "y": 509.5, "width": 471, "height": 661 }
+		},
+		"leg_front2": {
+			"leg_front2": { "x": 1427.5, "y": 668.5, "width": 249, "height": 267 }
+		},
+		"Layer 24": {
+			"Layer 24": { "x": 988.5, "y": 887.5, "width": 317, "height": 429 }
+		},
+		"leg_front_foot": {
+			"leg_front_foot": { "x": 1595.5, "y": 528, "width": 207, "height": 128 }
+		},
+		"leg_upper2": {
+			"leg_upper2": { "x": 1340.5, "y": 434, "width": 161, "height": 342 }
+		},
+		"leg_upper": {
+			"leg_upper": { "x": 1280.5, "y": 647, "width": 229, "height": 192 }
+		},
+		"leg_front": {
+			"leg_front": { "x": 1194, "y": 712.5, "width": 390, "height": 315 }
+		},
+		"skirt_d": {
+			"skirt_d": { "x": 1167.5, "y": 515, "width": 293, "height": 464 }
+		},
+		"belt": {
+			"belt": { "x": 1046, "y": 778, "width": 228, "height": 162 }
+		},
+		"clothes_r": {
+			"clothes_r": { "x": 1089, "y": 939.5, "width": 178, "height": 337 }
+		},
+		"skirt_up": {
+			"skirt_up": { "x": 1117.5, "y": 742, "width": 249, "height": 248 }
+		},
+		"clothes_l": {
+			"clothes_l": { "x": 998.5, "y": 608, "width": 345, "height": 962 }
+		},
+		"arm_l_": {
+			"arm_l_": { "x": 846, "y": 972, "width": 108, "height": 142 }
+		},
+		"arm_l_forearm": {
+			"arm_l_forearm": { "x": 831, "y": 997.5, "width": 174, "height": 223 }
+		},
+		"hair_back": {
+			"hair_back": { "x": 2128.5, "y": 827.5, "width": 523, "height": 617 }
+		},
+		"hair_back_up": {
+			"hair_back_up": { "x": 2110.5, "y": 925.5, "width": 559, "height": 629 }
+		},
+		"neck": {
+			"neck": { "x": 2148.5, "y": 610, "width": 237, "height": 370 }
+		},
+		"face": {
+			"face": { "x": 2170.5, "y": 764, "width": 411, "height": 678 }
+		},
+		"hair_front": {
+			"hair_front": { "x": 2148, "y": 950, "width": 470, "height": 372 }
+		},
+		"hair_front_r": {
+			"hair_front_r": { "x": 2360, "y": 840.5, "width": 134, "height": 271 }
+		},
+		"hair_front_l": {
+			"hair_front_l": { "x": 2154, "y": 878.5, "width": 226, "height": 217 }
+		},
+		"lua_lon_l": {
+			"lua_lon_l": { "x": -2282.5, "y": 765.5, "width": 371, "height": 1221 }
+		},
+		"lua_lon_r": {
+			"lua_lon_r": { "x": -812.5, "y": 730, "width": 491, "height": 1292 }
+		},
+		"ghe": {
+			"ghe": { "x": -1509.5, "y": 583, "width": 1183, "height": 1244 }
+		},
+		"lua vang_l4": {
+			"lua vang_l4": { "x": -2055, "y": 517.5, "width": 344, "height": 215 }
+		},
+		"lua vang_l3": {
+			"lua vang_l3": { "x": -1868, "y": 562.5, "width": 150, "height": 275 }
+		},
+		"lua vang_r2": {
+			"lua vang_r2": { "x": -919, "y": 510.5, "width": 426, "height": 309 }
+		},
+		"lua vang_r": {
+			"lua vang_r": { "x": -1190.5, "y": 834, "width": 461, "height": 376 }
+		},
+		"lua tim_r": {
+			"lua tim_r": { "x": -1286.5, "y": 914.5, "width": 181, "height": 211 }
+		},
+		"lua tim_l": {
+			"lua tim_l": { "x": -2035.5, "y": 1047, "width": 189, "height": 232 }
+		},
+		"lua vang_l2": {
+			"lua vang_l2": { "x": -2031.5, "y": 915.5, "width": 315, "height": 445 }
+		},
+		"lua vang_l": {
+			"lua vang_l": { "x": -2066.5, "y": 1105, "width": 285, "height": 106 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

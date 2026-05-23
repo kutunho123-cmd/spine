@@ -1,0 +1,109 @@
+{ "skeleton": { "images": "C:/Users/ADMIN/Desktop/40 Spine/Hỏa/Lý Thu Thủy/Show_To/export/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "banchan1", "bone": "root", "attachment": "banchan1" },
+	{ "name": "bopchan1", "bone": "root", "attachment": "bopchan1" },
+	{ "name": "chan1", "bone": "root", "attachment": "chan1" },
+	{ "name": "hoatiet1", "bone": "root", "attachment": "hoatiet1" },
+	{ "name": "bopchan", "bone": "root", "attachment": "bopchan" },
+	{ "name": "canhchan", "bone": "root", "attachment": "canhchan" },
+	{ "name": "banchan", "bone": "root", "attachment": "banchan" },
+	{ "name": "vanhoa", "bone": "root", "attachment": "vanhoa" },
+	{ "name": "tay2", "bone": "root", "attachment": "tay2" },
+	{ "name": "tay1", "bone": "root", "attachment": "tay1" },
+	{ "name": "than2", "bone": "root", "attachment": "than2" },
+	{ "name": "than1", "bone": "root", "attachment": "than1" },
+	{ "name": "ta2", "bone": "root", "attachment": "ta2" },
+	{ "name": "ta1", "bone": "root", "attachment": "ta1" },
+	{ "name": "pai2", "bone": "root", "attachment": "pai2" },
+	{ "name": "pai1", "bone": "root", "attachment": "pai1" },
+	{ "name": "toc4", "bone": "root", "attachment": "toc4" },
+	{ "name": "dt2", "bone": "root", "attachment": "dt2" },
+	{ "name": "dt1", "bone": "root", "attachment": "dt1" },
+	{ "name": "dau1", "bone": "root", "attachment": "dau1" },
+	{ "name": "toc3", "bone": "root", "attachment": "toc3" },
+	{ "name": "toc2", "bone": "root", "attachment": "toc2" },
+	{ "name": "toc1", "bone": "root", "attachment": "toc1" },
+	{ "name": "quat", "bone": "root", "attachment": "quat" }
+],
+"skins": {
+	"default": {
+		"banchan1": {
+			"banchan1": { "x": -650, "y": -222.5, "width": 218, "height": 253 }
+		},
+		"bopchan1": {
+			"bopchan1": { "x": -226, "y": 224, "width": 398, "height": 384 }
+		},
+		"chan1": {
+			"chan1": { "x": -509.5, "y": 131.5, "width": 243, "height": 571 }
+		},
+		"hoatiet1": {
+			"hoatiet1": { "x": -605.5, "y": -153, "width": 129, "height": 100 }
+		},
+		"bopchan": {
+			"bopchan": { "x": -162.5, "y": 179.5, "width": 463, "height": 457 }
+		},
+		"canhchan": {
+			"canhchan": { "x": -486.5, "y": 92.5, "width": 375, "height": 629 }
+		},
+		"banchan": {
+			"banchan": { "x": -689, "y": -302.5, "width": 268, "height": 273 }
+		},
+		"vanhoa": {
+			"vanhoa": { "x": -627.5, "y": -189.5, "width": 147, "height": 115 }
+		},
+		"tay2": {
+			"tay2": { "x": -100.5, "y": 479, "width": 289, "height": 294 }
+		},
+		"tay1": {
+			"tay1": { "x": -208, "y": 495, "width": 146, "height": 270 }
+		},
+		"than2": {
+			"than2": { "x": 76.5, "y": 458, "width": 417, "height": 404 }
+		},
+		"than1": {
+			"than1": { "x": -131.5, "y": 109.5, "width": 509, "height": 449 }
+		},
+		"ta2": {
+			"ta2": { "x": 396, "y": 123.5, "width": 212, "height": 331 }
+		},
+		"ta1": {
+			"ta1": { "x": -52.5, "y": -133, "width": 837, "height": 516 }
+		},
+		"pai2": {
+			"pai2": { "x": 250, "y": 309.5, "width": 416, "height": 507 }
+		},
+		"pai1": {
+			"pai1": { "x": 339, "y": 228, "width": 294, "height": 184 }
+		},
+		"toc4": {
+			"toc4": { "x": 1423.5, "y": -141.5, "width": 987, "height": 1299 }
+		},
+		"dt2": {
+			"dt2": { "x": 1578.5, "y": 181, "width": 311, "height": 696 }
+		},
+		"dt1": {
+			"dt1": { "x": 931, "y": 156, "width": 226, "height": 598 }
+		},
+		"dau1": {
+			"dau1": { "x": 1202, "y": 50, "width": 484, "height": 816 }
+		},
+		"toc3": {
+			"toc3": { "x": 1378.5, "y": 262.5, "width": 187, "height": 165 }
+		},
+		"toc2": {
+			"toc2": { "x": 1372, "y": -141, "width": 200, "height": 880 }
+		},
+		"toc1": {
+			"toc1": { "x": 1235, "y": 542, "width": 610, "height": 634 }
+		},
+		"quat": {
+			"quat": { "x": -138.5, "y": 773, "width": 223, "height": 298 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

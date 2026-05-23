@@ -1,0 +1,117 @@
+{ "skeleton": { "images": "C:/Users/ADMIN/Desktop/40 Spine/Hỏa/Chu Chỉ Nhược/Show_To/export/reskin/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "soivai", "bone": "root", "attachment": "soivai" },
+	{ "name": "vai7", "bone": "root", "attachment": "vai7" },
+	{ "name": "vai5", "bone": "root", "attachment": "vai5" },
+	{ "name": "toc4", "bone": "root", "attachment": "toc4" },
+	{ "name": "chanphai", "bone": "root", "attachment": "chanphai" },
+	{ "name": "vai3", "bone": "root", "attachment": "vai3" },
+	{ "name": "tayphai", "bone": "root", "attachment": "tayphai" },
+	{ "name": "toc1", "bone": "root", "attachment": "toc1" },
+	{ "name": "taytrai", "bone": "root", "attachment": "taytrai" },
+	{ "name": "toc2", "bone": "root", "attachment": "toc2" },
+	{ "name": "toc3", "bone": "root", "attachment": "toc3" },
+	{ "name": "caitoc", "bone": "root", "attachment": "caitoc" },
+	{ "name": "vai6", "bone": "root", "attachment": "vai6" },
+	{ "name": "vai1", "bone": "root", "attachment": "vai1" },
+	{ "name": "bantaytrai", "bone": "root", "attachment": "bantaytrai" },
+	{ "name": "khuonmat", "bone": "root", "attachment": "khuonmat" },
+	{ "name": "ao", "bone": "root", "attachment": "ao" },
+	{ "name": "kiem", "bone": "root", "attachment": "kiem" },
+	{ "name": "Layer 6 copy", "bone": "root", "attachment": "Layer 6 copy" },
+	{ "name": "vuongniem", "bone": "root", "attachment": "vuongniem" },
+	{ "name": "vai2", "bone": "root", "attachment": "vai2" },
+	{ "name": "chantrai", "bone": "root", "attachment": "chantrai" },
+	{ "name": "vai4", "bone": "root", "attachment": "vai4" },
+	{ "name": "dailung", "bone": "root", "attachment": "dailung" },
+	{ "name": "hoatiet", "bone": "root", "attachment": "hoatiet" },
+	{ "name": "vokiem", "bone": "root", "attachment": "vokiem" }
+],
+"skins": {
+	"default": {
+		"soivai": {
+			"soivai": { "x": 180, "y": 563.5, "width": 406, "height": 209 }
+		},
+		"vai7": {
+			"vai7": { "x": -295.5, "y": -283, "width": 389, "height": 956 }
+		},
+		"vai5": {
+			"vai5": { "x": 291.5, "y": -361, "width": 907, "height": 780 }
+		},
+		"toc4": {
+			"toc4": { "x": -45.5, "y": 553.5, "width": 203, "height": 265 }
+		},
+		"chanphai": {
+			"chanphai": { "x": -32, "y": -767, "width": 200, "height": 590 }
+		},
+		"vai3": {
+			"vai3": { "x": 412.5, "y": -131, "width": 971, "height": 456 }
+		},
+		"tayphai": {
+			"tayphai": { "x": -334.5, "y": 293.5, "width": 517, "height": 599 }
+		},
+		"toc1": {
+			"toc1": { "x": 345, "y": 422.5, "width": 746, "height": 383 }
+		},
+		"taytrai": {
+			"taytrai": { "x": 410.5, "y": 239.5, "width": 705, "height": 393 }
+		},
+		"toc2": {
+			"toc2": { "x": 315.5, "y": 472.5, "width": 633, "height": 333 }
+		},
+		"toc3": {
+			"toc3": { "x": 127, "y": 664.5, "width": 404, "height": 217 }
+		},
+		"caitoc": {
+			"caitoc": { "x": -23.5, "y": 718.5, "width": 155, "height": 93 }
+		},
+		"vai6": {
+			"vai6": { "x": 8, "y": -331.5, "width": 604, "height": 1133 }
+		},
+		"vai1": {
+			"vai1": { "x": 439, "y": -9.5, "width": 1114, "height": 305 }
+		},
+		"bantaytrai": {
+			"bantaytrai": { "x": 296, "y": 41.5, "width": 206, "height": 197 }
+		},
+		"khuonmat": {
+			"khuonmat": { "x": -33, "y": 520, "width": 164, "height": 212 }
+		},
+		"ao": {
+			"ao": { "x": -33, "y": 311.5, "width": 328, "height": 365 }
+		},
+		"kiem": {
+			"kiem": { "x": -92, "y": 453, "width": 588, "height": 528 }
+		},
+		"Layer 6 copy": {
+			"Layer 6 copy": { "x": 1.5, "y": 572, "width": 189, "height": 160 }
+		},
+		"vuongniem": {
+			"vuongniem": { "x": -62, "y": 634, "width": 136, "height": 86 }
+		},
+		"vai2": {
+			"vai2": { "x": 502, "y": -45.5, "width": 1210, "height": 545 }
+		},
+		"chantrai": {
+			"chantrai": { "x": 274, "y": -522, "width": 608, "height": 910 }
+		},
+		"vai4": {
+			"vai4": { "x": 330.5, "y": -279.5, "width": 975, "height": 1021 }
+		},
+		"dailung": {
+			"dailung": { "x": -121.5, "y": 130, "width": 249, "height": 208 }
+		},
+		"hoatiet": {
+			"hoatiet": { "x": 123, "y": -13.5, "width": 348, "height": 293 }
+		},
+		"vokiem": {
+			"vokiem": { "x": 168.5, "y": 10.5, "width": 567, "height": 379 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

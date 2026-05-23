@@ -1,0 +1,19 @@
+Multiple layers for the "default" skin in the "Color Fill 1" slot have the same name "Color Fill 1":
+Goc/Color Fill 1
+Group 1 copy/Color Fill 1
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "goc" slot have the same name "goc":
+Goc/goc
+Group 1 copy/goc
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "neck" slot have the same name "neck":
+Goc/neck
+Group 1 copy/neck
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "body" slot have the same name "body":
+Goc/body
+Group 1 copy/body
+Rename or use the [ignore] tag for these layers.

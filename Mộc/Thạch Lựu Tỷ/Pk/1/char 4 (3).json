@@ -1,0 +1,57 @@
+{ "skeleton": { "images": "C:/Users/ADMIN/Desktop/40 Spine/Mộc/Thạch Lựu Tỷ/Pk/1/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "root" },
+	{ "name": "Layer 11", "bone": "root", "attachment": "Layer 11" },
+	{ "name": "Layer 9", "bone": "root", "attachment": "Layer 9" },
+	{ "name": "Generative Fill 2", "bone": "root", "attachment": "Generative Fill 2" },
+	{ "name": "Generative Fill", "bone": "root", "attachment": "Generative Fill" },
+	{ "name": "Đầu", "bone": "root", "attachment": "Đầu" },
+	{ "name": "Hoa", "bone": "root", "attachment": "Hoa" },
+	{ "name": "Áo", "bone": "root" },
+	{ "name": "Layer 7", "bone": "root", "attachment": "Layer 7" },
+	{ "name": "Layer 5", "bone": "root", "attachment": "Layer 5" },
+	{ "name": "Layer 12", "bone": "root", "attachment": "Layer 12" }
+],
+"skins": {
+	"default": {
+		"Layer 1": {
+			"Layer 1": { "x": 374.5, "y": -598.5, "width": 527, "height": 1189 }
+		},
+		"Layer 11": {
+			"Layer 11": { "x": 745.5, "y": -764, "width": 185, "height": 228 }
+		},
+		"Layer 9": {
+			"Layer 9": { "x": 770, "y": -744.5, "width": 74, "height": 187 }
+		},
+		"Generative Fill 2": {
+			"Generative Fill 2": { "x": 745, "y": -769, "width": 240, "height": 284 }
+		},
+		"Generative Fill": {
+			"Generative Fill": { "x": 756.5, "y": -613, "width": 125, "height": 188 }
+		},
+		"Đầu": {
+			"Đầu": { "x": 714, "y": -435.5, "width": 114, "height": 171 }
+		},
+		"Hoa": {
+			"Hoa": { "x": 714, "y": -435.5, "width": 138, "height": 109 }
+		},
+		"Áo": {
+			"Áo": { "x": 1041.5, "y": -562, "width": 115, "height": 152 }
+		},
+		"Layer 7": {
+			"Layer 7": { "x": 690, "y": -742, "width": 134, "height": 272 }
+		},
+		"Layer 5": {
+			"Layer 5": { "x": 828, "y": -746, "width": 94, "height": 238 }
+		},
+		"Layer 12": {
+			"Layer 12": { "x": 739, "y": -584.5, "width": 120, "height": 157 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
