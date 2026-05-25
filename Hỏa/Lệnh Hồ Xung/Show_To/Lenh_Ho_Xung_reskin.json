@@ -1,0 +1,109 @@
+{ "skeleton": { "images": "D:/Spine/Spine/Lenh Ho Xung/Lệnh Hồ Xung/Lệnh Hồ Xung/Show_To/export/reskin/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "non", "bone": "root", "attachment": "non" },
+	{ "name": "toc3", "bone": "root", "attachment": "toc3" },
+	{ "name": "dau", "bone": "root", "attachment": "dau" },
+	{ "name": "vaysau_to", "bone": "root", "attachment": "vaysau_to" },
+	{ "name": "taaophai1", "bone": "root", "attachment": "taaophai1" },
+	{ "name": "vaysau_nho", "bone": "root", "attachment": "vaysau_nho" },
+	{ "name": "taoophai2", "bone": "root", "attachment": "taoophai2" },
+	{ "name": "chanphai", "bone": "root", "attachment": "chanphai" },
+	{ "name": "toc1", "bone": "root", "attachment": "toc1" },
+	{ "name": "bd", "bone": "root", "attachment": "bd" },
+	{ "name": "chantrai", "bone": "root", "attachment": "chantrai" },
+	{ "name": "taaogiua", "bone": "root", "attachment": "taaogiua" },
+	{ "name": "taaotrai2", "bone": "root", "attachment": "taaotrai2" },
+	{ "name": "kiem", "bone": "root", "attachment": "kiem" },
+	{ "name": "taaotrai1", "bone": "root", "attachment": "taaotrai1" },
+	{ "name": "tayphai2", "bone": "root", "attachment": "tayphai2" },
+	{ "name": "tayphai1", "bone": "root", "attachment": "tayphai1" },
+	{ "name": "taytrai1", "bone": "root", "attachment": "taytrai1" },
+	{ "name": "canhtaytrai3", "bone": "root", "attachment": "canhtaytrai3" },
+	{ "name": "tayphai3", "bone": "root", "attachment": "tayphai3" },
+	{ "name": "tay trai 2", "bone": "root", "attachment": "tay trai 2" },
+	{ "name": "toc_mai_tr", "bone": "root", "attachment": "toc_mai_tr" },
+	{ "name": "toc_mai_ph", "bone": "root", "attachment": "toc_mai_ph" },
+	{ "name": "da", "bone": "root", "attachment": "da" }
+],
+"skins": {
+	"default": {
+		"non": {
+			"non": { "x": 75, "y": 875.5, "width": 148, "height": 187 }
+		},
+		"toc3": {
+			"toc3": { "x": -9.5, "y": 958.5, "width": 229, "height": 249 }
+		},
+		"dau": {
+			"dau": { "x": 20, "y": 1005.5, "width": 84, "height": 151 }
+		},
+		"vaysau_to": {
+			"vaysau_to": { "x": 3, "y": 506, "width": 514, "height": 564 }
+		},
+		"taaophai1": {
+			"taaophai1": { "x": -283, "y": 620.5, "width": 500, "height": 433 }
+		},
+		"vaysau_nho": {
+			"vaysau_nho": { "x": -11, "y": 622, "width": 290, "height": 302 }
+		},
+		"taoophai2": {
+			"taoophai2": { "x": -169.5, "y": 644.5, "width": 229, "height": 287 }
+		},
+		"chanphai": {
+			"chanphai": { "x": -68, "y": 555, "width": 232, "height": 438 }
+		},
+		"toc1": {
+			"toc1": { "x": 20, "y": 1057, "width": 92, "height": 116 }
+		},
+		"bd": {
+			"bd": { "x": 16.5, "y": 855.5, "width": 189, "height": 259 }
+		},
+		"chantrai": {
+			"chantrai": { "x": 2.5, "y": 506, "width": 107, "height": 544 }
+		},
+		"taaogiua": {
+			"taaogiua": { "x": -153, "y": 562.5, "width": 324, "height": 449 }
+		},
+		"taaotrai2": {
+			"taaotrai2": { "x": 69.5, "y": 625, "width": 195, "height": 378 }
+		},
+		"kiem": {
+			"kiem": { "x": 3, "y": 852, "width": 222, "height": 470 }
+		},
+		"taaotrai1": {
+			"taaotrai1": { "x": 138.5, "y": 528, "width": 343, "height": 696 }
+		},
+		"tayphai2": {
+			"tayphai2": { "x": -81, "y": 815, "width": 82, "height": 112 }
+		},
+		"tayphai1": {
+			"tayphai1": { "x": -67.5, "y": 892, "width": 109, "height": 128 }
+		},
+		"taytrai1": {
+			"taytrai1": { "x": 71, "y": 867.5, "width": 90, "height": 169 }
+		},
+		"canhtaytrai3": {
+			"canhtaytrai3": { "x": -34.5, "y": 852, "width": 93, "height": 56 }
+		},
+		"tayphai3": {
+			"tayphai3": { "x": 1.5, "y": 861.5, "width": 145, "height": 103 }
+		},
+		"tay trai 2": {
+			"tay trai 2": { "x": 35.5, "y": 820.5, "width": 123, "height": 119 }
+		},
+		"toc_mai_tr": {
+			"toc_mai_tr": { "x": 17, "y": 1030, "width": 82, "height": 56 }
+		},
+		"toc_mai_ph": {
+			"toc_mai_ph": { "x": 33, "y": 1035.5, "width": 54, "height": 53 }
+		},
+		"da": {
+			"da": { "x": 26.5, "y": 131, "width": 295, "height": 262 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
