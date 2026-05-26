@@ -173,15 +173,15 @@ lshouzhi2
   offset: 0, 0
   index: -1
 lshouzhi3
-  rotate: true
-  xy: 1852, 13
+  rotate: false
+  xy: 2503, 1533
   size: 57, 31
   orig: 57, 31
   offset: 0, 0
   index: -1
 lshouzhi4
-  rotate: true
-  xy: 2909, 521
+  rotate: false
+  xy: 2906, 1140
   size: 47, 35
   orig: 47, 35
   offset: 0, 0
@@ -208,15 +208,15 @@ lxiuzi
   offset: 0, 0
   index: -1
 lyanbai
-  rotate: true
-  xy: 688, 186
+  rotate: false
+  xy: 1081, 474
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 lyanqiu
   rotate: false
-  xy: 1081, 474
+  xy: 2672, 653
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
@@ -291,6 +291,13 @@ rhuacao
   orig: 122, 70
   offset: 0, 0
   index: -1
+rmeimao
+  rotate: true
+  xy: 1852, 8
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
 rpiaodai1
   rotate: false
   xy: 2532, 1046
@@ -328,7 +335,7 @@ rshouzhang
   index: -1
 rshouzhi1
   rotate: true
-  xy: 2928, 1325
+  xy: 2934, 735
   size: 58, 24
   orig: 58, 24
   offset: 0, 0
@@ -341,8 +348,8 @@ rshouzhi2
   offset: 0, 0
   index: -1
 rshouzhi3
-  rotate: false
-  xy: 2503, 1537
+  rotate: true
+  xy: 2928, 1326
   size: 57, 27
   orig: 57, 27
   offset: 0, 0
@@ -360,6 +367,34 @@ rshouzhi5
   size: 55, 49
   orig: 55, 49
   offset: 0, 0
+  index: -1
+ryanbai
+  rotate: true
+  xy: 688, 190
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+ryankuang
+  rotate: true
+  xy: 2909, 521
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+ryanqiu
+  rotate: true
+  xy: 2601, 86
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+ryanying
+  rotate: true
+  xy: 110, 2
+  size: 21, 17
+  orig: 23, 17
+  offset: 1, 0
   index: -1
 shangsheng
   rotate: false
