@@ -1,0 +1,566 @@
+
+104013.png
+size: 827,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingxinmo_0
+  rotate: false
+  xy: 376, 2
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+jingxinmo_1
+  rotate: false
+  xy: 142, 571
+  size: 185, 265
+  orig: 185, 265
+  offset: 0, 0
+  index: -1
+jingxinmo_10
+  rotate: true
+  xy: 789, 278
+  size: 60, 14
+  orig: 80, 18
+  offset: 20, 2
+  index: -1
+jingxinmo_11
+  rotate: true
+  xy: 329, 757
+  size: 79, 336
+  orig: 80, 342
+  offset: 1, 0
+  index: -1
+jingxinmo_12
+  rotate: true
+  xy: 749, 515
+  size: 22, 68
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+jingxinmo_13
+  rotate: true
+  xy: 2, 5
+  size: 29, 64
+  orig: 34, 71
+  offset: 1, 0
+  index: -1
+jingxinmo_14
+  rotate: false
+  xy: 570, 40
+  size: 48, 23
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+jingxinmo_15
+  rotate: true
+  xy: 696, 330
+  size: 59, 58
+  orig: 61, 60
+  offset: 2, 0
+  index: -1
+jingxinmo_16
+  rotate: false
+  xy: 88, 3
+  size: 65, 87
+  orig: 65, 94
+  offset: 0, 1
+  index: -1
+jingxinmo_17
+  rotate: true
+  xy: 465, 13
+  size: 50, 103
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+jingxinmo_18
+  rotate: true
+  xy: 486, 65
+  size: 83, 132
+  orig: 89, 150
+  offset: 6, 18
+  index: -1
+jingxinmo_19
+  rotate: false
+  xy: 716, 40
+  size: 51, 138
+  orig: 51, 138
+  offset: 0, 0
+  index: -1
+jingxinmo_2
+  rotate: false
+  xy: 2, 325
+  size: 138, 511
+  orig: 166, 522
+  offset: 0, 11
+  index: -1
+jingxinmo_20
+  rotate: false
+  xy: 749, 539
+  size: 75, 79
+  orig: 78, 82
+  offset: 3, 3
+  index: -1
+jingxinmo_21
+  rotate: false
+  xy: 667, 760
+  size: 56, 76
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+jingxinmo_22
+  rotate: true
+  xy: 725, 746
+  size: 88, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+jingxinmo_23
+  rotate: false
+  xy: 770, 9
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+jingxinmo_24
+  rotate: false
+  xy: 769, 47
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+jingxinmo_25
+  rotate: false
+  xy: 342, 392
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+jingxinmo_26
+  rotate: true
+  xy: 769, 68
+  size: 15, 49
+  orig: 15, 50
+  offset: 0, 1
+  index: -1
+jingxinmo_27
+  rotate: true
+  xy: 756, 340
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+jingxinmo_28
+  rotate: true
+  xy: 720, 659
+  size: 85, 105
+  orig: 85, 105
+  offset: 0, 0
+  index: -1
+jingxinmo_29
+  rotate: true
+  xy: 674, 521
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+jingxinmo_3
+  rotate: true
+  xy: 331, 78
+  size: 120, 84
+  orig: 120, 98
+  offset: 0, 14
+  index: -1
+jingxinmo_30
+  rotate: true
+  xy: 672, 663
+  size: 95, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+jingxinmo_31
+  rotate: false
+  xy: 745, 432
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+jingxinmo_32
+  rotate: true
+  xy: 273, 7
+  size: 69, 101
+  orig: 70, 103
+  offset: 1, 2
+  index: -1
+jingxinmo_33
+  rotate: true
+  xy: 696, 391
+  size: 83, 47
+  orig: 83, 49
+  offset: 0, 2
+  index: -1
+jingxinmo_34
+  rotate: false
+  xy: 486, 150
+  size: 110, 135
+  orig: 114, 136
+  offset: 4, 1
+  index: -1
+jingxinmo_35
+  rotate: false
+  xy: 570, 2
+  size: 74, 36
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+jingxinmo_36
+  rotate: true
+  xy: 800, 450
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1
+jingxinmo_37
+  rotate: true
+  xy: 745, 2
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+jingxinmo_3a
+  rotate: false
+  xy: 807, 350
+  size: 18, 18
+  orig: 120, 98
+  offset: 71, 0
+  index: -1
+jingxinmo_4
+  rotate: false
+  xy: 155, 78
+  size: 174, 115
+  orig: 174, 121
+  offset: 0, 6
+  index: -1
+jingxinmo_40
+  rotate: false
+  xy: 769, 132
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+jingxinmo_41
+  rotate: false
+  xy: 770, 26
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+jingxinmo_42
+  rotate: true
+  xy: 759, 275
+  size: 63, 28
+  orig: 64, 29
+  offset: 1, 0
+  index: -1
+jingxinmo_43
+  rotate: false
+  xy: 759, 218
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+jingxinmo_44
+  rotate: true
+  xy: 745, 397
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+jingxinmo_45
+  rotate: true
+  xy: 582, 290
+  size: 32, 14
+  orig: 36, 16
+  offset: 3, 0
+  index: -1
+jingxinmo_46
+  rotate: true
+  xy: 142, 347
+  size: 21, 11
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+jingxinmo_47
+  rotate: true
+  xy: 672, 607
+  size: 54, 43
+  orig: 59, 47
+  offset: 0, 4
+  index: -1
+jingxinmo_48
+  rotate: true
+  xy: 798, 85
+  size: 45, 27
+  orig: 45, 28
+  offset: 0, 1
+  index: -1
+jingxinmo_49
+  rotate: false
+  xy: 543, 592
+  size: 127, 163
+  orig: 128, 165
+  offset: 1, 2
+  index: -1
+jingxinmo_5
+  rotate: false
+  xy: 329, 587
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jingxinmo_50
+  rotate: true
+  xy: 543, 464
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+jingxinmo_52
+  rotate: true
+  xy: 543, 464
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+jingxinmo_51
+  rotate: false
+  xy: 790, 205
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+jingxinmo_53
+  rotate: true
+  xy: 68, 15
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+jingxinmo_54
+  rotate: false
+  xy: 801, 410
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+jingxinmo_55
+  rotate: false
+  xy: 478, 287
+  size: 102, 175
+  orig: 102, 191
+  offset: 0, 16
+  index: -1
+jingxinmo_56
+  rotate: false
+  xy: 417, 80
+  size: 67, 153
+  orig: 83, 163
+  offset: 16, 10
+  index: -1
+jingxinmo_57
+  rotate: false
+  xy: 674, 476
+  size: 53, 43
+  orig: 53, 50
+  offset: 0, 7
+  index: -1
+jingxinmo_58
+  rotate: true
+  xy: 142, 370
+  size: 199, 198
+  orig: 199, 198
+  offset: 0, 0
+  index: -1
+jingxinmo_59
+  rotate: false
+  xy: 620, 40
+  size: 94, 131
+  orig: 95, 132
+  offset: 0, 0
+  index: -1
+jingxinmo_6
+  rotate: true
+  xy: 769, 85
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+jingxinmo_60
+  rotate: true
+  xy: 598, 173
+  size: 149, 78
+  orig: 149, 83
+  offset: 0, 5
+  index: -1
+jingxinmo_61
+  rotate: true
+  xy: 386, 203
+  size: 30, 15
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+jingxinmo_62
+  rotate: false
+  xy: 342, 370
+  size: 33, 20
+  orig: 34, 20
+  offset: 1, 0
+  index: -1
+jingxinmo_63
+  rotate: true
+  xy: 305, 200
+  size: 168, 79
+  orig: 168, 83
+  offset: 0, 2
+  index: -1
+jingxinmo_64
+  rotate: false
+  xy: 717, 620
+  size: 103, 37
+  orig: 103, 37
+  offset: 0, 0
+  index: -1
+jingxinmo_65
+  rotate: true
+  xy: 646, 4
+  size: 34, 97
+  orig: 34, 97
+  offset: 0, 0
+  index: -1
+jingxinmo_66
+  rotate: false
+  xy: 155, 195
+  size: 148, 173
+  orig: 148, 179
+  offset: 0, 0
+  index: -1
+jingxinmo_67
+  rotate: false
+  xy: 759, 182
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+jingxinmo_68
+  rotate: false
+  xy: 582, 324
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+jingxinmo_69
+  rotate: true
+  xy: 329, 617
+  size: 138, 212
+  orig: 140, 221
+  offset: 0, 4
+  index: -1
+jingxinmo_7
+  rotate: false
+  xy: 598, 150
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+jingxinmo_70
+  rotate: false
+  xy: 728, 836
+  size: 94, 197
+  orig: 94, 222
+  offset: 0, 0
+  index: -1
+jingxinmo_71
+  rotate: false
+  xy: 2, 36
+  size: 84, 287
+  orig: 84, 303
+  offset: 0, 0
+  index: -1
+jingxinmo_72
+  rotate: true
+  xy: 678, 180
+  size: 142, 79
+  orig: 142, 79
+  offset: 0, 0
+  index: -1
+jingxinmo_73
+  rotate: false
+  xy: 543, 474
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+jingxinmo_74
+  rotate: false
+  xy: 342, 416
+  size: 131, 199
+  orig: 131, 199
+  offset: 0, 0
+  index: -1
+jingxinmo_75
+  rotate: false
+  xy: 386, 235
+  size: 90, 179
+  orig: 90, 203
+  offset: 0, 0
+  index: -1
+jingxinmo_76
+  rotate: false
+  xy: 88, 92
+  size: 65, 231
+  orig: 70, 254
+  offset: 5, 4
+  index: -1
+jingxinmo_77
+  rotate: true
+  xy: 155, 17
+  size: 59, 116
+  orig: 61, 116
+  offset: 0, 0
+  index: -1
+jingxinmo_8
+  rotate: false
+  xy: 807, 370
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+jingxinmo_80
+  rotate: false
+  xy: 2, 838
+  size: 724, 195
+  orig: 724, 226
+  offset: 0, 31
+  index: -1
+jingxinmo_9
+  rotate: false
+  xy: 789, 223
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+no1
+  rotate: false
+  xy: 155, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 475, 464
+  size: 66, 151
+  orig: 75, 152
+  offset: 9, 1
+  index: -1
