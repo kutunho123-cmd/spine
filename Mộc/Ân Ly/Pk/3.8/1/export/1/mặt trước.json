@@ -1,0 +1,113 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Mộc/Ân Ly/Pk/3.8/1/export/1/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "nensauao", "bone": "root", "attachment": "nensauao" },
+	{ "name": "toc2", "bone": "root", "attachment": "toc2" },
+	{ "name": "vaiquansau", "bone": "root", "attachment": "vaiquansau" },
+	{ "name": "co", "bone": "root", "attachment": "co" },
+	{ "name": "ao1", "bone": "root", "attachment": "ao1" },
+	{ "name": "chantrai1", "bone": "root", "attachment": "chantrai1" },
+	{ "name": "chanphai1", "bone": "root", "attachment": "chanphai1" },
+	{ "name": "chantrai2", "bone": "root", "attachment": "chantrai2" },
+	{ "name": "chantrai3", "bone": "root", "attachment": "chantrai3" },
+	{ "name": "chanphai2", "bone": "root", "attachment": "chanphai2" },
+	{ "name": "chanphai3", "bone": "root", "attachment": "chanphai3" },
+	{ "name": "tayphai6", "bone": "root", "attachment": "tayphai6" },
+	{ "name": "tayphai4", "bone": "root", "attachment": "tayphai4" },
+	{ "name": "vaiogiua", "bone": "root", "attachment": "vaiogiua" },
+	{ "name": "dailung", "bone": "root", "attachment": "dailung" },
+	{ "name": "vaiaotrai", "bone": "root", "attachment": "vaiaotrai" },
+	{ "name": "vaiquanphai", "bone": "root", "attachment": "vaiquanphai" },
+	{ "name": "vaiquantrai", "bone": "root", "attachment": "vaiquantrai" },
+	{ "name": "vaiaophai", "bone": "root", "attachment": "vaiaophai" },
+	{ "name": "dau", "bone": "root", "attachment": "dau" },
+	{ "name": "toc", "bone": "root", "attachment": "toc" },
+	{ "name": "tayphai2", "bone": "root", "attachment": "tayphai2" },
+	{ "name": "tayphai1", "bone": "root", "attachment": "tayphai1" },
+	{ "name": "tayphai5", "bone": "root", "attachment": "tayphai5" },
+	{ "name": "tayphai3", "bone": "root", "attachment": "tayphai3" }
+],
+"skins": {
+	"default": {
+		"nensauao": {
+			"nensauao": { "x": -52, "y": 726.5, "width": 158, "height": 115 }
+		},
+		"toc2": {
+			"toc2": { "x": -51, "y": 828, "width": 118, "height": 140 }
+		},
+		"vaiquansau": {
+			"vaiquansau": { "x": -61, "y": 332.5, "width": 464, "height": 507 }
+		},
+		"co": {
+			"co": { "x": -35.5, "y": 744, "width": 89, "height": 104 }
+		},
+		"ao1": {
+			"ao1": { "x": -19, "y": 661.5, "width": 120, "height": 183 }
+		},
+		"chantrai1": {
+			"chantrai1": { "x": 1.5, "y": 376, "width": 91, "height": 358 }
+		},
+		"chanphai1": {
+			"chanphai1": { "x": -76, "y": 356, "width": 190, "height": 386 }
+		},
+		"chantrai2": {
+			"chantrai2": { "x": 1.5, "y": 149.5, "width": 75, "height": 161 }
+		},
+		"chantrai3": {
+			"chantrai3": { "x": 21.5, "y": 60, "width": 103, "height": 76 }
+		},
+		"chanphai2": {
+			"chanphai2": { "x": -137.5, "y": 122.5, "width": 87, "height": 193 }
+		},
+		"chanphai3": {
+			"chanphai3": { "x": -162, "y": 17, "width": 54, "height": 80 }
+		},
+		"tayphai6": {
+			"tayphai6": { "x": 65.5, "y": 674.5, "width": 113, "height": 121 }
+		},
+		"tayphai4": {
+			"tayphai4": { "x": 85, "y": 606, "width": 78, "height": 94 }
+		},
+		"vaiogiua": {
+			"vaiogiua": { "x": 30, "y": 336, "width": 160, "height": 424 }
+		},
+		"dailung": {
+			"dailung": { "x": -15, "y": 558.5, "width": 124, "height": 91 }
+		},
+		"vaiaotrai": {
+			"vaiaotrai": { "x": 10, "y": 661.5, "width": 76, "height": 225 }
+		},
+		"vaiquanphai": {
+			"vaiquanphai": { "x": -160.5, "y": 343, "width": 293, "height": 494 }
+		},
+		"vaiquantrai": {
+			"vaiquantrai": { "x": 94.5, "y": 350, "width": 157, "height": 542 }
+		},
+		"vaiaophai": {
+			"vaiaophai": { "x": -74, "y": 659.5, "width": 144, "height": 253 }
+		},
+		"dau": {
+			"dau": { "x": -43, "y": 810, "width": 88, "height": 114 }
+		},
+		"toc": {
+			"toc": { "x": -49, "y": 836, "width": 122, "height": 124 }
+		},
+		"tayphai2": {
+			"tayphai2": { "x": -166.5, "y": 600.5, "width": 109, "height": 91 }
+		},
+		"tayphai1": {
+			"tayphai1": { "x": -122, "y": 639.5, "width": 98, "height": 159 }
+		},
+		"tayphai5": {
+			"tayphai5": { "x": -242, "y": 636, "width": 120, "height": 78 }
+		},
+		"tayphai3": {
+			"tayphai3": { "x": 57.5, "y": 564.5, "width": 81, "height": 75 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,57 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Mộc/Ân Ly/Pk/3.8/photoshop/matsau/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "tayphai3", "bone": "root", "attachment": "tayphai3" },
+	{ "name": "tayphai2", "bone": "root", "attachment": "tayphai2" },
+	{ "name": "tayphai1", "bone": "root", "attachment": "tayphai1" },
+	{ "name": "dau", "bone": "root", "attachment": "dau" },
+	{ "name": "ao", "bone": "root", "attachment": "ao" },
+	{ "name": "chanphai", "bone": "root", "attachment": "chanphai" },
+	{ "name": "chantrai", "bone": "root", "attachment": "chantrai" },
+	{ "name": "taytrai3", "bone": "root", "attachment": "taytrai3" },
+	{ "name": "taytrai2", "bone": "root", "attachment": "taytrai2" },
+	{ "name": "taytrai1", "bone": "root", "attachment": "taytrai1" },
+	{ "name": "quan", "bone": "root", "attachment": "quan" }
+],
+"skins": {
+	"default": {
+		"tayphai3": {
+			"tayphai3": { "x": 1232, "y": -808.5, "width": 302, "height": 191 }
+		},
+		"tayphai2": {
+			"tayphai2": { "x": 1043.5, "y": -909, "width": 249, "height": 238 }
+		},
+		"tayphai1": {
+			"tayphai1": { "x": 922.5, "y": -812.5, "width": 239, "height": 415 }
+		},
+		"dau": {
+			"dau": { "x": 716.5, "y": -329, "width": 333, "height": 406 }
+		},
+		"ao": {
+			"ao": { "x": 716.5, "y": -808.5, "width": 553, "height": 731 }
+		},
+		"chanphai": {
+			"chanphai": { "x": 941, "y": -2080.5, "width": 272, "height": 753 }
+		},
+		"chantrai": {
+			"chantrai": { "x": 544.5, "y": -2160, "width": 267, "height": 692 }
+		},
+		"taytrai3": {
+			"taytrai3": { "x": 452.5, "y": -1006.5, "width": 217, "height": 155 }
+		},
+		"taytrai2": {
+			"taytrai2": { "x": 362.5, "y": -904.5, "width": 205, "height": 233 }
+		},
+		"taytrai1": {
+			"taytrai1": { "x": 422, "y": -722.5, "width": 324, "height": 309 }
+		},
+		"quan": {
+			"quan": { "x": 775.5, "y": -1580.5, "width": 1299, "height": 1427 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

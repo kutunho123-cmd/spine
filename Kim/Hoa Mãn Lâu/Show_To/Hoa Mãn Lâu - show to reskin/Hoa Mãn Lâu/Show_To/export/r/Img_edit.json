@@ -1,0 +1,65 @@
+{ "skeleton": { "images": "D:/Spine/Spine/Hoa Mãn Lâu/Hoa Mãn Lâu/Show_To/export/r/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "vaitrai", "bone": "root", "attachment": "vaitrai" },
+	{ "name": "tatrai_ngoai_1", "bone": "root", "attachment": "tatrai_ngoai_1" },
+	{ "name": "taytrai1", "bone": "root", "attachment": "taytrai1" },
+	{ "name": "tatrai_ngoai_2", "bone": "root", "attachment": "tatrai_ngoai_2" },
+	{ "name": "trayphai2", "bone": "root", "attachment": "trayphai2" },
+	{ "name": "caysao", "bone": "root", "attachment": "caysao" },
+	{ "name": "caysao_luclac", "bone": "root", "attachment": "caysao_luclac" },
+	{ "name": "ngontrayphai", "bone": "root", "attachment": "ngontrayphai" },
+	{ "name": "taphai_duoi", "bone": "root", "attachment": "taphai_duoi" },
+	{ "name": "taphai_trongi_2", "bone": "root", "attachment": "taphai_trongi_2" },
+	{ "name": "tayphai2", "bone": "root", "attachment": "tayphai2" },
+	{ "name": "tayphai1", "bone": "root", "attachment": "tayphai1" },
+	{ "name": "taphai_ngoai_1", "bone": "root", "attachment": "taphai_ngoai_1" }
+],
+"skins": {
+	"default": {
+		"vaitrai": {
+			"vaitrai": { "x": -95.5, "y": 476.5, "width": 107, "height": 291 }
+		},
+		"tatrai_ngoai_1": {
+			"tatrai_ngoai_1": { "x": -274, "y": 357.5, "width": 272, "height": 357 }
+		},
+		"taytrai1": {
+			"taytrai1": { "x": -167, "y": 483, "width": 76, "height": 176 }
+		},
+		"tatrai_ngoai_2": {
+			"tatrai_ngoai_2": { "x": -255.5, "y": 357.5, "width": 291, "height": 357 }
+		},
+		"trayphai2": {
+			"trayphai2": { "x": -185, "y": 587.5, "width": 68, "height": 73 }
+		},
+		"caysao": {
+			"caysao": { "x": -124.5, "y": 618, "width": 343, "height": 114 }
+		},
+		"caysao_luclac": {
+			"caysao_luclac": { "x": -285.5, "y": 503.5, "width": 45, "height": 137 }
+		},
+		"ngontrayphai": {
+			"ngontrayphai": { "x": -192, "y": 610, "width": 54, "height": 28 }
+		},
+		"taphai_duoi": {
+			"taphai_duoi": { "x": 93.5, "y": 147, "width": 277, "height": 518 }
+		},
+		"taphai_trongi_2": {
+			"taphai_trongi_2": { "x": 93, "y": 332, "width": 348, "height": 464 }
+		},
+		"tayphai2": {
+			"tayphai2": { "x": -111.5, "y": 596.5, "width": 75, "height": 85 }
+		},
+		"tayphai1": {
+			"tayphai1": { "x": -10.5, "y": 513, "width": 181, "height": 138 }
+		},
+		"taphai_ngoai_1": {
+			"taphai_ngoai_1": { "x": 107.5, "y": 336, "width": 317, "height": 428 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,14 @@
+Multiple layers for the "default" skin in the "tayphai2" slot have the same name "tayphai2":
+tayphai2
+tayphai2
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "tayphai1" slot have the same name "tayphai1":
+tayphai1
+tayphai1
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "tayphai3" slot have the same name "tayphai3":
+tayphai3
+tayphai3
+Rename or use the [ignore] tag for these layers.
