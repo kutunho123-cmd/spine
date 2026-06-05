@@ -1,0 +1,121 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Hỏa/Lệnh Hồ Xung/Pk/1/export/1/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "BG", "bone": "root" },
+	{ "name": "Demo Chính", "bone": "root", "attachment": "Demo Chính" },
+	{ "name": "ChanTrai", "bone": "root", "attachment": "ChanTrai" },
+	{ "name": "ChanPhai", "bone": "root", "attachment": "ChanPhai" },
+	{ "name": "Vay", "bone": "root", "attachment": "Vay" },
+	{ "name": "Generative Fill 3", "bone": "root", "attachment": "Generative Fill 3" },
+	{ "name": "Layer 3", "bone": "root", "attachment": "Layer 3" },
+	{ "name": "Generative Fill 2", "bone": "root", "attachment": "Generative Fill 2" },
+	{ "name": "Layer 2", "bone": "root", "attachment": "Layer 2" },
+	{ "name": "AoGiua1", "bone": "root", "attachment": "AoGiua1" },
+	{ "name": "ThatLung", "bone": "root", "attachment": "ThatLung" },
+	{ "name": "VuKhi 2", "bone": "root", "attachment": "VuKhi 2" },
+	{ "name": "VuKhi 1", "bone": "root", "attachment": "VuKhi 1" },
+	{ "name": "TaSau", "bone": "root", "attachment": "TaSau" },
+	{ "name": "ChanPhai1", "bone": "root", "attachment": "ChanPhai1" },
+	{ "name": "ChanTrai1", "bone": "root", "attachment": "ChanTrai1" },
+	{ "name": "TaVayPhai", "bone": "root", "attachment": "TaVayPhai" },
+	{ "name": "TaVayTrai", "bone": "root", "attachment": "TaVayTrai" },
+	{ "name": "TaAoPhai", "bone": "root", "attachment": "TaAoPhai" },
+	{ "name": "CanhTayPhai", "bone": "root", "attachment": "CanhTayPhai" },
+	{ "name": "CoAoPhai", "bone": "root", "attachment": "CoAoPhai" },
+	{ "name": "TaAoGiua", "bone": "root", "attachment": "TaAoGiua" },
+	{ "name": "AoGiua", "bone": "root", "attachment": "AoGiua" },
+	{ "name": "CoAoTrai", "bone": "root", "attachment": "CoAoTrai" },
+	{ "name": "Generative Fill", "bone": "root", "attachment": "Generative Fill" },
+	{ "name": "Layer 1", "bone": "root", "attachment": "Layer 1" },
+	{ "name": "ThatLung1", "bone": "root", "attachment": "ThatLung1" }
+],
+"skins": {
+	"default": {
+		"BG": {
+			"BG": { "x": -486, "y": 700, "width": 5926, "height": 1954 }
+		},
+		"Demo Chính": {
+			"Demo Chính": { "x": -1609.5, "y": 700.5, "width": 2099, "height": 1845 }
+		},
+		"ChanTrai": {
+			"ChanTrai": { "x": 1363.5, "y": -55, "width": 153, "height": 240 }
+		},
+		"ChanPhai": {
+			"ChanPhai": { "x": 1782, "y": -83, "width": 140, "height": 184 }
+		},
+		"Vay": {
+			"Vay": { "x": 1611, "y": 391.5, "width": 908, "height": 893 }
+		},
+		"Generative Fill 3": {
+			"Generative Fill 3": { "x": 1717.5, "y": 950.5, "width": 265, "height": 491 }
+		},
+		"Layer 3": {
+			"Layer 3": { "x": 1796.5, "y": 623.5, "width": 251, "height": 407 }
+		},
+		"Generative Fill 2": {
+			"Generative Fill 2": { "x": 1286, "y": 965, "width": 248, "height": 424 }
+		},
+		"Layer 2": {
+			"Layer 2": { "x": 1255, "y": 695.5, "width": 232, "height": 457 }
+		},
+		"AoGiua1": {
+			"AoGiua1": { "x": 1514, "y": 1079, "width": 400, "height": 370 }
+		},
+		"ThatLung": {
+			"ThatLung": { "x": 1514.5, "y": 850.5, "width": 291, "height": 147 }
+		},
+		"VuKhi 2": {
+			"VuKhi 2": { "x": 1498, "y": 819.5, "width": 818, "height": 1081 }
+		},
+		"VuKhi 1": {
+			"VuKhi 1": { "x": 412, "y": 819, "width": 818, "height": 1082 }
+		},
+		"TaSau": {
+			"TaSau": { "x": 334.5, "y": 310, "width": 783, "height": 756 }
+		},
+		"ChanPhai1": {
+			"ChanPhai1": { "x": 477.5, "y": 299, "width": 355, "height": 904 }
+		},
+		"ChanTrai1": {
+			"ChanTrai1": { "x": 243, "y": 248, "width": 300, "height": 940 }
+		},
+		"TaVayPhai": {
+			"TaVayPhai": { "x": 619.5, "y": 360, "width": 297, "height": 888 }
+		},
+		"TaVayTrai": {
+			"TaVayTrai": { "x": 74, "y": 338.5, "width": 652, "height": 899 }
+		},
+		"TaAoPhai": {
+			"TaAoPhai": { "x": 607.5, "y": 701.5, "width": 145, "height": 351 }
+		},
+		"CanhTayPhai": {
+			"CanhTayPhai": { "x": 592.5, "y": 999, "width": 163, "height": 250 }
+		},
+		"CoAoPhai": {
+			"CoAoPhai": { "x": 614, "y": 725, "width": 162, "height": 398 }
+		},
+		"TaAoGiua": {
+			"TaAoGiua": { "x": 288.5, "y": 360, "width": 449, "height": 856 }
+		},
+		"AoGiua": {
+			"AoGiua": { "x": 350.5, "y": 1033, "width": 373, "height": 372 }
+		},
+		"CoAoTrai": {
+			"CoAoTrai": { "x": 56.5, "y": 593, "width": 227, "height": 216 }
+		},
+		"Generative Fill": {
+			"Generative Fill": { "x": 146, "y": 929, "width": 196, "height": 410 }
+		},
+		"Layer 1": {
+			"Layer 1": { "x": 74, "y": 700, "width": 270, "height": 400 }
+		},
+		"ThatLung1": {
+			"ThatLung1": { "x": 390.5, "y": 819.5, "width": 299, "height": 141 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

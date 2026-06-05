@@ -1,0 +1,105 @@
+{ "skeleton": { "images": "D:/SPINE/iplaytaba/Show_To/Show_To/export/r/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "tocsau_main", "bone": "root", "attachment": "tocsau_main" },
+	{ "name": "tayaotrai_trong", "bone": "root", "attachment": "tayaotrai_trong" },
+	{ "name": "taytrai", "bone": "root", "attachment": "taytrai" },
+	{ "name": "tayaotrai_ngoai", "bone": "root", "attachment": "tayaotrai_ngoai" },
+	{ "name": "Layer 21", "bone": "root", "attachment": "Layer 21" },
+	{ "name": "tayaophai_ngoai", "bone": "root", "attachment": "tayaophai_ngoai" },
+	{ "name": "tayphai", "bone": "root", "attachment": "tayphai" },
+	{ "name": "tayaophai_trong", "bone": "root", "attachment": "tayaophai_trong" },
+	{ "name": "chanphai", "bone": "root", "attachment": "chanphai" },
+	{ "name": "tayphai_ban", "bone": "root", "attachment": "tayphai_ban" },
+	{ "name": "ta2", "bone": "root", "attachment": "ta2" },
+	{ "name": "ta3", "bone": "root", "attachment": "ta3" },
+	{ "name": "chantrai", "bone": "root", "attachment": "chantrai" },
+	{ "name": "taytr", "bone": "root", "attachment": "taytr" },
+	{ "name": "ta4", "bone": "root", "attachment": "ta4" },
+	{ "name": "no_taphai", "bone": "root", "attachment": "no_taphai" },
+	{ "name": "ta1", "bone": "root", "attachment": "ta1" },
+	{ "name": "no", "bone": "root", "attachment": "no" },
+	{ "name": "co", "bone": "root", "attachment": "co" },
+	{ "name": "dau", "bone": "root", "attachment": "dau" },
+	{ "name": "tocsau", "bone": "root", "attachment": "tocsau" },
+	{ "name": "tocmai_ph", "bone": "root", "attachment": "tocmai_ph" },
+	{ "name": "tocmai_tr", "bone": "root", "attachment": "tocmai_tr" }
+],
+"skins": {
+	"default": {
+		"tocsau_main": {
+			"tocsau_main": { "x": -25, "y": 737.5, "width": 284, "height": 235 }
+		},
+		"tayaotrai_trong": {
+			"tayaotrai_trong": { "x": -241, "y": 612, "width": 54, "height": 126 }
+		},
+		"taytrai": {
+			"taytrai": { "x": -237.5, "y": 661.5, "width": 45, "height": 113 }
+		},
+		"tayaotrai_ngoai": {
+			"tayaotrai_ngoai": { "x": -232, "y": 508, "width": 96, "height": 366 }
+		},
+		"Layer 21": {
+			"Layer 21": { "x": -24.5, "y": 689.5, "width": 105, "height": 139 }
+		},
+		"tayaophai_ngoai": {
+			"tayaophai_ngoai": { "x": 73.5, "y": 662, "width": 69, "height": 134 }
+		},
+		"tayphai": {
+			"tayphai": { "x": 63, "y": 713, "width": 56, "height": 86 }
+		},
+		"tayaophai_trong": {
+			"tayaophai_trong": { "x": 150.5, "y": 585, "width": 365, "height": 280 }
+		},
+		"chanphai": {
+			"chanphai": { "x": 15.5, "y": 109.5, "width": 63, "height": 137 }
+		},
+		"tayphai_ban": {
+			"tayphai_ban": { "x": 89.5, "y": 777.5, "width": 53, "height": 93 }
+		},
+		"ta2": {
+			"ta2": { "x": -75, "y": 305.5, "width": 262, "height": 567 }
+		},
+		"ta3": {
+			"ta3": { "x": 5, "y": 359.5, "width": 438, "height": 605 }
+		},
+		"chantrai": {
+			"chantrai": { "x": -74.5, "y": 45, "width": 73, "height": 130 }
+		},
+		"taytr": {
+			"taytr": { "x": -244.5, "y": 742.5, "width": 45, "height": 73 }
+		},
+		"ta4": {
+			"ta4": { "x": 26, "y": 316, "width": 414, "height": 582 }
+		},
+		"no_taphai": {
+			"no_taphai": { "x": -13.5, "y": 434, "width": 311, "height": 312 }
+		},
+		"ta1": {
+			"ta1": { "x": -208.5, "y": 320, "width": 69, "height": 574 }
+		},
+		"no": {
+			"no": { "x": -122.5, "y": 539, "width": 211, "height": 198 }
+		},
+		"co": {
+			"co": { "x": -126.5, "y": 782.5, "width": 85, "height": 109 }
+		},
+		"dau": {
+			"dau": { "x": -129.5, "y": 842, "width": 99, "height": 120 }
+		},
+		"tocsau": {
+			"tocsau": { "x": -124, "y": 878, "width": 124, "height": 80 }
+		},
+		"tocmai_ph": {
+			"tocmai_ph": { "x": -119.5, "y": 830, "width": 95, "height": 124 }
+		},
+		"tocmai_tr": {
+			"tocmai_tr": { "x": -176, "y": 832, "width": 30, "height": 96 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

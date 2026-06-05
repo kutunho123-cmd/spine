@@ -1,0 +1,19 @@
+Multiple layers for the "default" skin in the "ChanPhai" slot have the same name "ChanPhai":
+Mặt Sau/ChanPhai
+Mặt Trước/ChanPhai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "ChanTrai" slot have the same name "ChanTrai":
+Mặt Sau/ChanTrai
+Mặt Trước/ChanTrai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "AoGiua" slot have the same name "AoGiua":
+Mặt Sau/AoGiua
+Mặt Trước/AoGiua
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "ThatLung" slot have the same name "ThatLung":
+Mặt Sau/ThatLung
+Mặt Trước/ThatLung
+Rename or use the [ignore] tag for these layers.

@@ -1,0 +1,57 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Ma/Kim Luân Pháp Vương/Show_To/reskin/2/export/1/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Layer 4", "bone": "root", "attachment": "Layer 4" },
+	{ "name": "Layer 3", "bone": "root" },
+	{ "name": "Toc dai", "bone": "root", "attachment": "Toc dai" },
+	{ "name": "Dau", "bone": "root", "attachment": "Dau" },
+	{ "name": "Long may phai", "bone": "root", "attachment": "Long may phai" },
+	{ "name": "Long may trai", "bone": "root", "attachment": "Long may trai" },
+	{ "name": "Toc tren", "bone": "root", "attachment": "Toc tren" },
+	{ "name": "Rau duoi", "bone": "root", "attachment": "Rau duoi" },
+	{ "name": "Rau phai", "bone": "root", "attachment": "Rau phai" },
+	{ "name": "Rau trai", "bone": "root", "attachment": "Rau trai" },
+	{ "name": "Rau mep", "bone": "root", "attachment": "Rau mep" }
+],
+"skins": {
+	"default": {
+		"Layer 4": {
+			"Layer 4": { "x": 498, "y": -425.5, "width": 998, "height": 853 }
+		},
+		"Layer 3": {
+			"Layer 3": { "x": 531, "y": -520.5, "width": 344, "height": 547 }
+		},
+		"Toc dai": {
+			"Toc dai": { "x": 622, "y": -167.5, "width": 410, "height": 213 }
+		},
+		"Dau": {
+			"Dau": { "x": 418, "y": -444, "width": 208, "height": 292 }
+		},
+		"Long may phai": {
+			"Long may phai": { "x": 429, "y": -421, "width": 102, "height": 74 }
+		},
+		"Long may trai": {
+			"Long may trai": { "x": 340, "y": -428, "width": 72, "height": 60 }
+		},
+		"Toc tren": {
+			"Toc tren": { "x": 406, "y": -317, "width": 146, "height": 156 }
+		},
+		"Rau duoi": {
+			"Rau duoi": { "x": 399, "y": -660.5, "width": 202, "height": 279 }
+		},
+		"Rau phai": {
+			"Rau phai": { "x": 473.5, "y": -522.5, "width": 121, "height": 157 }
+		},
+		"Rau trai": {
+			"Rau trai": { "x": 316.5, "y": -528, "width": 71, "height": 134 }
+		},
+		"Rau mep": {
+			"Rau mep": { "x": 399.5, "y": -522.5, "width": 159, "height": 59 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
