@@ -1,6 +1,6 @@
 
 305003.png
-size: 3212,588
+size: 3232,588
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -69,28 +69,28 @@ yaonian_21
   index: -1
 yaonian_22
   rotate: false
-  xy: 2773, 121
-  size: 143, 180
+  xy: 2748, 387
+  size: 162, 199
   orig: 162, 202
-  offset: 19, 10
+  offset: 0, 1
   index: -1
 yaonian_23
   rotate: false
-  xy: 2748, 394
+  xy: 2773, 109
   size: 161, 192
   orig: 184, 201
   offset: 13, 0
   index: -1
 yaonian_25
   rotate: true
-  xy: 3013, 12
+  xy: 3051, 125
   size: 130, 111
   orig: 135, 121
   offset: 5, 6
   index: -1
 yaonian_26
   rotate: false
-  xy: 2883, 325
+  xy: 2883, 318
   size: 110, 67
   orig: 110, 67
   offset: 0, 0
@@ -131,8 +131,8 @@ yaonian_31
   offset: 0, 0
   index: -1
 yaonian_32
-  rotate: true
-  xy: 3050, 149
+  rotate: false
+  xy: 2995, 285
   size: 47, 122
   orig: 47, 122
   offset: 0, 0
@@ -166,15 +166,15 @@ yaonian_36
   offset: 0, 0
   index: -1
 yaonian_37
-  rotate: true
-  xy: 3126, 4
+  rotate: false
+  xy: 3084, 257
   size: 143, 64
   orig: 146, 73
   offset: 3, 6
   index: -1
 yaonian_38
   rotate: true
-  xy: 2904, 4
+  xy: 3084, 8
   size: 115, 107
   orig: 115, 124
   offset: 0, 7
@@ -187,8 +187,8 @@ yaonian_39
   offset: 6, 0
   index: -1
 yaonian_40
-  rotate: false
-  xy: 3018, 446
+  rotate: true
+  xy: 2912, 409
   size: 177, 140
   orig: 181, 145
   offset: 4, 5
@@ -202,7 +202,7 @@ yaonian_41
   index: -1
 yaonian_42
   rotate: true
-  xy: 3018, 313
+  xy: 3054, 455
   size: 131, 176
   orig: 136, 190
   offset: 5, 14
@@ -236,15 +236,15 @@ yaonian_46
   offset: 0, 0
   index: -1
 yaonian_47
-  rotate: true
-  xy: 2918, 144
+  rotate: false
+  xy: 3054, 323
   size: 167, 130
   orig: 174, 149
   offset: 7, 0
   index: -1
 yaonian_48
-  rotate: true
-  xy: 2911, 408
+  rotate: false
+  xy: 2773, 2
   size: 178, 105
   orig: 178, 105
   offset: 0, 0
@@ -258,14 +258,14 @@ yaonian_49
   index: -1
 yaonian_50
   rotate: false
-  xy: 2773, 4
+  xy: 2953, 6
   size: 129, 115
   orig: 129, 119
   offset: 0, 1
   index: -1
 yaonian_52
-  rotate: false
-  xy: 3050, 198
+  rotate: true
+  xy: 2936, 123
   size: 160, 113
   orig: 164, 113
   offset: 4, 0
