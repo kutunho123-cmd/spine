@@ -1,0 +1,244 @@
+
+yuantiangang_xinchunpifu_huawei.png
+size: 1938,1783
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1826, 18
+  size: 241, 101
+  orig: 245, 101
+  offset: 2, 0
+  index: -1
+2
+  rotate: true
+  xy: 1788, 1252
+  size: 529, 95
+  orig: 610, 337
+  offset: 1, 100
+  index: -1
+3
+  rotate: true
+  xy: 1836, 957
+  size: 293, 81
+  orig: 299, 107
+  offset: 2, 6
+  index: -1
+4
+  rotate: false
+  xy: 1142, 1118
+  size: 353, 133
+  orig: 353, 134
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1885, 1458
+  size: 323, 48
+  orig: 330, 66
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 894
+  size: 600, 887
+  orig: 600, 887
+  offset: 0, 0
+  index: -1
+houbai
+  rotate: true
+  xy: 2, 202
+  size: 690, 567
+  orig: 716, 570
+  offset: 26, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 1592, 487
+  size: 315, 151
+  orig: 315, 151
+  offset: 0, 0
+  index: -1
+piaosheng1
+  rotate: true
+  xy: 1489, 534
+  size: 364, 101
+  orig: 364, 101
+  offset: 0, 0
+  index: -1
+piaosheng2
+  rotate: true
+  xy: 1453, 21
+  size: 175, 194
+  orig: 175, 194
+  offset: 0, 0
+  index: -1
+piaosheng22222
+  rotate: false
+  xy: 1649, 2
+  size: 175, 194
+  orig: 175, 194
+  offset: 0, 0
+  index: -1
+piaosheng3
+  rotate: false
+  xy: 1837, 686
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+qi2_
+  rotate: false
+  xy: 1500, 1223
+  size: 286, 558
+  orig: 459, 582
+  offset: 173, 24
+  index: -1
+qi3_
+  rotate: false
+  xy: 1142, 1253
+  size: 356, 528
+  orig: 356, 528
+  offset: 0, 0
+  index: -1
+qi4_
+  rotate: true
+  xy: 604, 895
+  size: 345, 503
+  orig: 404, 503
+  offset: 59, 0
+  index: -1
+qi5
+  rotate: false
+  xy: 1273, 541
+  size: 214, 357
+  orig: 214, 357
+  offset: 0, 0
+  index: -1
+qi_
+  rotate: false
+  xy: 851, 339
+  size: 275, 554
+  orig: 275, 554
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 592, 6
+  size: 265, 300
+  orig: 326, 520
+  offset: 34, 220
+  index: -1
+shangshen222222
+  rotate: false
+  xy: 1573, 922
+  size: 261, 299
+  orig: 326, 520
+  offset: 38, 221
+  index: -1
+shi_youshou
+  rotate: false
+  xy: 1885, 1397
+  size: 48, 59
+  orig: 48, 65
+  offset: 0, 6
+  index: -1
+shitou1
+  rotate: false
+  xy: 859, 7
+  size: 413, 330
+  orig: 418, 339
+  offset: 2, 0
+  index: -1
+shitou2
+  rotate: true
+  xy: 1592, 640
+  size: 280, 243
+  orig: 354, 358
+  offset: 11, 115
+  index: -1
+tou
+  rotate: true
+  xy: 1128, 343
+  size: 109, 135
+  orig: 109, 146
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: true
+  xy: 1837, 740
+  size: 215, 99
+  orig: 222, 99
+  offset: 7, 0
+  index: -1
+xiabai1
+  rotate: true
+  xy: 571, 308
+  size: 584, 278
+  orig: 584, 278
+  offset: 0, 0
+  index: -1
+xiabai2
+  rotate: true
+  xy: 2, 34
+  size: 166, 588
+  orig: 186, 588
+  offset: 13, 0
+  index: -1
+xiabai3
+  rotate: false
+  xy: 604, 1242
+  size: 536, 539
+  orig: 542, 539
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 1274, 19
+  size: 177, 217
+  orig: 192, 244
+  offset: 0, 27
+  index: -1
+youtui
+  rotate: false
+  xy: 1128, 454
+  size: 143, 444
+  orig: 243, 444
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 1483, 198
+  size: 145, 283
+  orig: 156, 283
+  offset: 11, 0
+  index: -1
+zuobi1
+  rotate: false
+  xy: 1803, 261
+  size: 131, 224
+  orig: 131, 224
+  offset: 0, 0
+  index: -1
+zuobi2
+  rotate: true
+  xy: 1274, 238
+  size: 301, 207
+  orig: 301, 207
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 1109, 900
+  size: 216, 462
+  orig: 216, 462
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: true
+  xy: 1483, 345
+  size: 140, 318
+  orig: 154, 318
+  offset: 0, 0
+  index: -1

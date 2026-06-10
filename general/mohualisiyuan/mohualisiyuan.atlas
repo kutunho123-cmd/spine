@@ -1,0 +1,460 @@
+
+mohualisiyuan.png
+size: 2044,1731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian01
+  rotate: true
+  xy: 122, 1606
+  size: 104, 124
+  orig: 104, 124
+  offset: 0, 0
+  index: -1
+jian02
+  rotate: false
+  xy: 720, 1564
+  size: 156, 117
+  orig: 156, 117
+  offset: 0, 0
+  index: -1
+jian03
+  rotate: true
+  xy: 1098, 1661
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+jian04
+  rotate: true
+  xy: 1175, 1653
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+lsy_0
+  rotate: true
+  xy: 235, 1712
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+lsy_1
+  rotate: true
+  xy: 407, 1707
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+lsy_10
+  rotate: true
+  xy: 1518, 1479
+  size: 151, 288
+  orig: 151, 288
+  offset: 0, 0
+  index: -1
+lsy_11
+  rotate: true
+  xy: 248, 1598
+  size: 109, 129
+  orig: 109, 129
+  offset: 0, 0
+  index: -1
+lsy_12
+  rotate: true
+  xy: 855, 1352
+  size: 161, 288
+  orig: 161, 288
+  offset: 0, 0
+  index: -1
+lsy_13
+  rotate: false
+  xy: 379, 1709
+  size: 26, 20
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+lsy_14
+  rotate: false
+  xy: 440, 1706
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+lsy_15
+  rotate: true
+  xy: 24, 1718
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+lsy_16
+  rotate: false
+  xy: 73, 1717
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+lsy_17
+  rotate: false
+  xy: 2, 1719
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+lsy_18
+  rotate: true
+  xy: 1931, 1621
+  size: 108, 111
+  orig: 121, 122
+  offset: 0, 11
+  index: -1
+lsy_19
+  rotate: false
+  xy: 986, 1672
+  size: 110, 57
+  orig: 110, 57
+  offset: 0, 0
+  index: -1
+lsy_2
+  rotate: true
+  xy: 110, 1713
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+lsy_20
+  rotate: false
+  xy: 2, 1612
+  size: 118, 99
+  orig: 118, 99
+  offset: 0, 0
+  index: -1
+lsy_22
+  rotate: true
+  xy: 370, 813
+  size: 359, 437
+  orig: 359, 437
+  offset: 0, 0
+  index: -1
+lsy_23
+  rotate: true
+  xy: 645, 1391
+  size: 171, 208
+  orig: 171, 229
+  offset: 0, 0
+  index: -1
+lsy_24
+  rotate: true
+  xy: 570, 1174
+  size: 215, 256
+  orig: 224, 256
+  offset: 9, 0
+  index: -1
+lsy_25
+  rotate: false
+  xy: 878, 1538
+  size: 214, 132
+  orig: 214, 132
+  offset: 0, 0
+  index: -1
+lsy_26
+  rotate: true
+  xy: 1392, 1293
+  size: 184, 351
+  orig: 184, 351
+  offset: 0, 0
+  index: -1
+lsy_27
+  rotate: true
+  xy: 335, 1238
+  size: 200, 233
+  orig: 200, 233
+  offset: 0, 0
+  index: -1
+lsy_28
+  rotate: false
+  xy: 2, 2
+  size: 674, 460
+  orig: 717, 460
+  offset: 25, 0
+  index: -1
+lsy_29
+  rotate: false
+  xy: 2, 464
+  size: 700, 347
+  orig: 700, 347
+  offset: 0, 0
+  index: -1
+lsy_3
+  rotate: true
+  xy: 579, 1700
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+lsy_30
+  rotate: true
+  xy: 1336, 1488
+  size: 149, 180
+  orig: 149, 188
+  offset: 0, 0
+  index: -1
+lsy_31
+  rotate: true
+  xy: 2, 937
+  size: 299, 366
+  orig: 350, 433
+  offset: 51, 0
+  index: -1
+lsy_32
+  rotate: true
+  xy: 679, 1696
+  size: 33, 73
+  orig: 41, 73
+  offset: 0, 0
+  index: -1
+lsy_33
+  rotate: true
+  xy: 614, 1699
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+lsy_34
+  rotate: true
+  xy: 531, 1702
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+lsy_35
+  rotate: false
+  xy: 835, 1683
+  size: 91, 46
+  orig: 158, 83
+  offset: 0, 0
+  index: -1
+lsy_36
+  rotate: true
+  xy: 133, 1713
+  size: 16, 56
+  orig: 16, 56
+  offset: 0, 0
+  index: -1
+lsy_37
+  rotate: true
+  xy: 283, 1711
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+lsy_38
+  rotate: true
+  xy: 1145, 1312
+  size: 174, 245
+  orig: 174, 245
+  offset: 0, 0
+  index: -1
+lsy_39
+  rotate: false
+  xy: 1808, 1466
+  size: 212, 153
+  orig: 212, 153
+  offset: 0, 0
+  index: -1
+lsy_4
+  rotate: true
+  xy: 500, 1702
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+lsy_40
+  rotate: false
+  xy: 1277, 1652
+  size: 146, 77
+  orig: 160, 77
+  offset: 0, 0
+  index: -1
+lsy_41
+  rotate: true
+  xy: 1559, 1634
+  size: 95, 113
+  orig: 95, 113
+  offset: 0, 0
+  index: -1
+lsy_42
+  rotate: true
+  xy: 1094, 1515
+  size: 135, 240
+  orig: 164, 275
+  offset: 18, 14
+  index: -1
+lsy_43
+  rotate: true
+  xy: 793, 1691
+  size: 38, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+lsy_44
+  rotate: true
+  xy: 59, 1718
+  size: 11, 12
+  orig: 12, 15
+  offset: 1, 0
+  index: -1
+lsy_45
+  rotate: true
+  xy: 472, 1706
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+lsy_46
+  rotate: false
+  xy: 754, 1696
+  size: 37, 33
+  orig: 38, 36
+  offset: 0, 1
+  index: -1
+lsy_47
+  rotate: true
+  xy: 1674, 1632
+  size: 97, 255
+  orig: 109, 259
+  offset: 0, 0
+  index: -1
+lsy_48
+  rotate: false
+  xy: 262, 1712
+  size: 19, 17
+  orig: 20, 19
+  offset: 1, 1
+  index: -1
+lsy_49
+  rotate: false
+  xy: 332, 1711
+  size: 18, 18
+  orig: 21, 19
+  offset: 2, 0
+  index: -1
+lsy_5
+  rotate: true
+  xy: 352, 1709
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+lsy_50
+  rotate: true
+  xy: 94, 1716
+  size: 13, 14
+  orig: 13, 17
+  offset: 0, 2
+  index: -1
+lsy_51
+  rotate: false
+  xy: 191, 1713
+  size: 42, 16
+  orig: 43, 18
+  offset: 0, 1
+  index: -1
+lsy_6
+  rotate: false
+  xy: 928, 1677
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+lsy_7
+  rotate: true
+  xy: 1425, 1639
+  size: 90, 132
+  orig: 90, 132
+  offset: 0, 0
+  index: -1
+lsy_8
+  rotate: true
+  xy: 1439, 652
+  size: 423, 452
+  orig: 423, 452
+  offset: 0, 0
+  index: -1
+lsy_9
+  rotate: true
+  xy: 2, 1440
+  size: 147, 641
+  orig: 147, 651
+  offset: 0, 9
+  index: -1
+wu01
+  rotate: true
+  xy: 1745, 1272
+  size: 192, 207
+  orig: 490, 582
+  offset: 0, 0
+  index: -1
+wu02
+  rotate: true
+  xy: 1346, 227
+  size: 423, 538
+  orig: 423, 538
+  offset: 0, 0
+  index: -1
+wu03
+  rotate: false
+  xy: 704, 346
+  size: 640, 390
+  orig: 640, 390
+  offset: 0, 0
+  index: -1
+wu04
+  rotate: false
+  xy: 1307, 1077
+  size: 616, 193
+  orig: 616, 193
+  offset: 0, 0
+  index: -1
+wu05
+  rotate: false
+  xy: 379, 1589
+  size: 339, 105
+  orig: 339, 105
+  offset: 0, 0
+  index: -1
+wu06
+  rotate: false
+  xy: 2, 1253
+  size: 331, 185
+  orig: 331, 185
+  offset: 0, 0
+  index: -1
+wu07
+  rotate: false
+  xy: 809, 738
+  size: 628, 337
+  orig: 628, 337
+  offset: 0, 0
+  index: -1
+wu08
+  rotate: false
+  xy: 828, 1109
+  size: 477, 201
+  orig: 528, 201
+  offset: 0, 0
+  index: -1
+
+mohualisiyuan2.png
+size: 763,1722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lsy_52
+  rotate: false
+  xy: 2, 2
+  size: 759, 1718
+  orig: 759, 1718
+  offset: 0, 0
+  index: -1

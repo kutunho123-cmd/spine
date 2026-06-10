@@ -1,0 +1,292 @@
+
+tiangang_yuantiangang.png
+size: 1987,1965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y_0
+  rotate: true
+  xy: 1006, 1148
+  size: 342, 393
+  orig: 342, 393
+  offset: 0, 0
+  index: -1
+y_1
+  rotate: false
+  xy: 2, 273
+  size: 533, 533
+  orig: 533, 533
+  offset: 0, 0
+  index: -1
+y_10
+  rotate: false
+  xy: 470, 1912
+  size: 69, 51
+  orig: 69, 53
+  offset: 0, 1
+  index: -1
+y_11
+  rotate: true
+  xy: 735, 1893
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+y_12
+  rotate: false
+  xy: 438, 1543
+  size: 321, 175
+  orig: 321, 175
+  offset: 0, 0
+  index: -1
+y_13
+  rotate: false
+  xy: 761, 1528
+  size: 322, 176
+  orig: 322, 176
+  offset: 0, 0
+  index: -1
+y_14
+  rotate: false
+  xy: 1768, 1652
+  size: 201, 201
+  orig: 216, 201
+  offset: 15, 0
+  index: -1
+y_15
+  rotate: true
+  xy: 450, 1745
+  size: 147, 200
+  orig: 151, 200
+  offset: 4, 0
+  index: -1
+y_16
+  rotate: false
+  xy: 309, 1913
+  size: 159, 50
+  orig: 187, 50
+  offset: 0, 0
+  index: -1
+y_17
+  rotate: false
+  xy: 1172, 1862
+  size: 200, 101
+  orig: 444, 713
+  offset: 201, 69
+  index: -1
+y_18
+  rotate: false
+  xy: 988, 1865
+  size: 182, 98
+  orig: 196, 98
+  offset: 0, 0
+  index: -1
+y_19
+  rotate: true
+  xy: 1401, 989
+  size: 371, 546
+  orig: 371, 546
+  offset: 0, 0
+  index: -1
+y_2
+  rotate: true
+  xy: 929, 516
+  size: 471, 718
+  orig: 973, 718
+  offset: 502, 0
+  index: -1
+y_20
+  rotate: true
+  xy: 1840, 1855
+  size: 108, 145
+  orig: 109, 145
+  offset: 1, 0
+  index: -1
+y_21
+  rotate: false
+  xy: 1378, 1492
+  size: 225, 212
+  orig: 284, 212
+  offset: 47, 0
+  index: -1
+y_22
+  rotate: true
+  xy: 893, 1876
+  size: 87, 93
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+y_23
+  rotate: false
+  xy: 257, 1922
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+y_24
+  rotate: true
+  xy: 815, 1893
+  size: 70, 76
+  orig: 72, 76
+  offset: 2, 0
+  index: -1
+y_25
+  rotate: true
+  xy: 1605, 1362
+  size: 288, 310
+  orig: 302, 310
+  offset: 3, 0
+  index: -1
+y_26
+  rotate: false
+  xy: 213, 1924
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+y_27
+  rotate: true
+  xy: 90, 1930
+  size: 33, 50
+  orig: 33, 53
+  offset: 0, 3
+  index: -1
+y_28
+  rotate: false
+  xy: 2, 1948
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+y_29
+  rotate: false
+  xy: 142, 1928
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+y_30
+  rotate: true
+  xy: 1085, 1503
+  size: 201, 291
+  orig: 231, 291
+  offset: 30, 0
+  index: -1
+y_31
+  rotate: true
+  xy: 2, 1806
+  size: 120, 164
+  orig: 120, 164
+  offset: 0, 0
+  index: -1
+y_32
+  rotate: true
+  xy: 2, 1306
+  size: 235, 502
+  orig: 235, 502
+  offset: 0, 0
+  index: -1
+y_33
+  rotate: true
+  xy: 2, 1622
+  size: 168, 434
+  orig: 338, 434
+  offset: 155, 0
+  index: -1
+y_34
+  rotate: true
+  xy: 1374, 1856
+  size: 107, 464
+  orig: 188, 464
+  offset: 0, 0
+  index: -1
+y_35
+  rotate: true
+  xy: 541, 1894
+  size: 69, 192
+  orig: 103, 230
+  offset: 0, 38
+  index: -1
+y_36
+  rotate: true
+  xy: 477, 808
+  size: 415, 450
+  orig: 415, 450
+  offset: 0, 0
+  index: -1
+y_37
+  rotate: true
+  xy: 168, 1792
+  size: 119, 280
+  orig: 119, 281
+  offset: 0, 1
+  index: -1
+y_38
+  rotate: true
+  xy: 652, 1720
+  size: 154, 258
+  orig: 160, 292
+  offset: 0, 34
+  index: -1
+y_39
+  rotate: true
+  xy: 43, 1935
+  size: 28, 45
+  orig: 28, 50
+  offset: 0, 5
+  index: -1
+y_4
+  rotate: true
+  xy: 537, 2
+  size: 512, 1299
+  orig: 512, 1299
+  offset: 0, 0
+  index: -1
+y_7
+  rotate: true
+  xy: 506, 1225
+  size: 301, 498
+  orig: 301, 498
+  offset: 0, 0
+  index: -1
+y_8
+  rotate: false
+  xy: 2, 908
+  size: 473, 396
+  orig: 558, 499
+  offset: 20, 74
+  index: -1
+y_9
+  rotate: true
+  xy: 912, 1706
+  size: 148, 854
+  orig: 318, 854
+  offset: 151, 0
+  index: -1
+
+tiangang_yuantiangang2.png
+size: 1945,1566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y_3
+  rotate: true
+  xy: 2, 650
+  size: 914, 1122
+  orig: 914, 1122
+  offset: 0, 0
+  index: -1
+y_5
+  rotate: false
+  xy: 1126, 424
+  size: 817, 1140
+  orig: 1012, 1140
+  offset: 195, 0
+  index: -1
+y_6
+  rotate: true
+  xy: 2, 2
+  size: 646, 650
+  orig: 646, 650
+  offset: 0, 0
+  index: -1
