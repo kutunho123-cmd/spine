@@ -1,0 +1,197 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Thần/Hoàng Dược Sư/PK/reskin/export/1/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Chantrai", "bone": "root", "attachment": "Chantrai" },
+	{ "name": "Chanphai", "bone": "root", "attachment": "Chanphai" },
+	{ "name": "Dau", "bone": "root", "attachment": "Dau" },
+	{ "name": "Taaotrai", "bone": "root", "attachment": "Taaotrai" },
+	{ "name": "Taaophai", "bone": "root", "attachment": "Taaophai" },
+	{ "name": "Dupicanhtay", "bone": "root", "attachment": "Dupicanhtay" },
+	{ "name": "Cotay", "bone": "root", "attachment": "Cotay" },
+	{ "name": "Canhtay", "bone": "root", "attachment": "Canhtay" },
+	{ "name": "Vuong Niem", "bone": "root", "attachment": "Vuong Niem" },
+	{ "name": "Tocdai", "bone": "root", "attachment": "Tocdai" },
+	{ "name": "Dau2", "bone": "root", "attachment": "Dau2" },
+	{ "name": "Rau", "bone": "root", "attachment": "Rau" },
+	{ "name": "Tocmai", "bone": "root", "attachment": "Tocmai" },
+	{ "name": "Taytrai1", "bone": "root", "attachment": "Taytrai1" },
+	{ "name": "Tayphai", "bone": "root", "attachment": "Tayphai" },
+	{ "name": "Chanphai2", "bone": "root", "attachment": "Chanphai2" },
+	{ "name": "Chantrai2", "bone": "root", "attachment": "Chantrai2" },
+	{ "name": "Cotayphai", "bone": "root", "attachment": "Cotayphai" },
+	{ "name": "Tayphai2", "bone": "root", "attachment": "Tayphai2" },
+	{ "name": "Cotaytrai", "bone": "root", "attachment": "Cotaytrai" },
+	{ "name": "Tay trai", "bone": "root", "attachment": "Tay trai" },
+	{ "name": "Ao", "bone": "root", "attachment": "Ao" },
+	{ "name": "Dau1", "bone": "root", "attachment": "Dau1" },
+	{ "name": "Vuongniem", "bone": "root", "attachment": "Vuongniem" },
+	{ "name": "Tocsau", "bone": "root", "attachment": "Tocsau" },
+	{ "name": "Mat", "bone": "root", "attachment": "Mat" },
+	{ "name": "Chantrai1", "bone": "root", "attachment": "Chantrai1" },
+	{ "name": "Chanphai1", "bone": "root", "attachment": "Chanphai1" },
+	{ "name": "Vuongniem1", "bone": "root", "attachment": "Vuongniem1" },
+	{ "name": "Aoduoi", "bone": "root", "attachment": "Aoduoi" },
+	{ "name": "AoGiua", "bone": "root", "attachment": "AoGiua" },
+	{ "name": "Daylung", "bone": "root", "attachment": "Daylung" },
+	{ "name": "Cotayphai1", "bone": "root", "attachment": "Cotayphai1" },
+	{ "name": "Taaocanhtaytrai", "bone": "root", "attachment": "Taaocanhtaytrai" },
+	{ "name": "Taaotrai1", "bone": "root", "attachment": "Taaotrai1" },
+	{ "name": "Taaocotaytrai", "bone": "root", "attachment": "Taaocotaytrai" },
+	{ "name": "Bantaytrai", "bone": "root", "attachment": "Bantaytrai" },
+	{ "name": "Cotaytrai1", "bone": "root", "attachment": "Cotaytrai1" },
+	{ "name": "Taytrai", "bone": "root", "attachment": "Taytrai" },
+	{ "name": "Tayphai1", "bone": "root", "attachment": "Tayphai1" },
+	{ "name": "Taophai", "bone": "root", "attachment": "Taophai" },
+	{ "name": "Rau1", "bone": "root", "attachment": "Rau1" },
+	{ "name": "Toc", "bone": "root", "attachment": "Toc" },
+	{ "name": "Tocmaiphai", "bone": "root", "attachment": "Tocmaiphai" },
+	{ "name": "Lotai", "bone": "root", "attachment": "Lotai" },
+	{ "name": "Tocmaitrai", "bone": "root", "attachment": "Tocmaitrai" }
+],
+"skins": {
+	"default": {
+		"Chantrai": {
+			"Chantrai": { "x": 3559, "y": -2403, "width": 320, "height": 308 }
+		},
+		"Chanphai": {
+			"Chanphai": { "x": 3635.5, "y": -2510, "width": 389, "height": 424 }
+		},
+		"Dau": {
+			"Dau": { "x": 3542.5, "y": -595.5, "width": 319, "height": 417 }
+		},
+		"Taaotrai": {
+			"Taaotrai": { "x": 3458.5, "y": -1544, "width": 349, "height": 1692 }
+		},
+		"Taaophai": {
+			"Taaophai": { "x": 3717.5, "y": -1578.5, "width": 601, "height": 1731 }
+		},
+		"Dupicanhtay": {
+			"Dupicanhtay": { "x": 3812, "y": -1167.5, "width": 334, "height": 177 }
+		},
+		"Cotay": {
+			"Cotay": { "x": 3816.5, "y": -1312, "width": 269, "height": 664 }
+		},
+		"Canhtay": {
+			"Canhtay": { "x": 3793.5, "y": -1029.5, "width": 371, "height": 441 }
+		},
+		"Vuong Niem": {
+			"Vuong Niem": { "x": 3701, "y": -329.5, "width": 186, "height": 197 }
+		},
+		"Tocdai": {
+			"Tocdai": { "x": 3750.5, "y": -736.5, "width": 261, "height": 461 }
+		},
+		"Dau2": {
+			"Dau2": { "x": 3577, "y": -478.5, "width": 310, "height": 241 }
+		},
+		"Rau": {
+			"Rau": { "x": 3446.5, "y": -743.5, "width": 93, "height": 229 }
+		},
+		"Tocmai": {
+			"Tocmai": { "x": 3557, "y": -562, "width": 198, "height": 312 }
+		},
+		"Taytrai1": {
+			"Taytrai1": { "x": 1900.5, "y": -1685, "width": 121, "height": 136 }
+		},
+		"Tayphai": {
+			"Tayphai": { "x": 2586.5, "y": -1677, "width": 99, "height": 112 }
+		},
+		"Chanphai2": {
+			"Chanphai2": { "x": 2477, "y": -2530.5, "width": 234, "height": 409 }
+		},
+		"Chantrai2": {
+			"Chantrai2": { "x": 2025.5, "y": -2536.5, "width": 289, "height": 409 }
+		},
+		"Cotayphai": {
+			"Cotayphai": { "x": 2581, "y": -1424.5, "width": 262, "height": 537 }
+		},
+		"Tayphai2": {
+			"Tayphai2": { "x": 2570.5, "y": -998, "width": 297, "height": 456 }
+		},
+		"Cotaytrai": {
+			"Cotaytrai": { "x": 1908, "y": -1420, "width": 272, "height": 556 }
+		},
+		"Tay trai": {
+			"Tay trai": { "x": 1912, "y": -999.5, "width": 324, "height": 459 }
+		},
+		"Ao": {
+			"Ao": { "x": 2253, "y": -1524, "width": 886, "height": 1798 }
+		},
+		"Dau1": {
+			"Dau1": { "x": 2237.5, "y": -678, "width": 387, "height": 662 }
+		},
+		"Vuongniem": {
+			"Vuongniem": { "x": 2234.5, "y": -331.5, "width": 251, "height": 183 }
+		},
+		"Tocsau": {
+			"Tocsau": { "x": 855.5, "y": -749, "width": 459, "height": 698 }
+		},
+		"Mat": {
+			"Mat": { "x": 890, "y": -574.5, "width": 268, "height": 489 }
+		},
+		"Chantrai1": {
+			"Chantrai1": { "x": 724.5, "y": -2333, "width": 383, "height": 874 }
+		},
+		"Chanphai1": {
+			"Chanphai1": { "x": 1153.5, "y": -2290.5, "width": 463, "height": 725 }
+		},
+		"Vuongniem1": {
+			"Vuongniem1": { "x": 840.5, "y": -251.5, "width": 223, "height": 151 }
+		},
+		"Aoduoi": {
+			"Aoduoi": { "x": 967, "y": -1771, "width": 320, "height": 946 }
+		},
+		"AoGiua": {
+			"AoGiua": { "x": 895.5, "y": -918.5, "width": 365, "height": 611 }
+		},
+		"Daylung": {
+			"Daylung": { "x": 944, "y": -1259.5, "width": 282, "height": 187 }
+		},
+		"Cotayphai1": {
+			"Cotayphai1": { "x": 1194.5, "y": -1172.5, "width": 199, "height": 293 }
+		},
+		"Taaocanhtaytrai": {
+			"Taaocanhtaytrai": { "x": 487.5, "y": -1097.5, "width": 313, "height": 197 }
+		},
+		"Taaotrai1": {
+			"Taaotrai1": { "x": 641.5, "y": -1499, "width": 443, "height": 1772 }
+		},
+		"Taaocotaytrai": {
+			"Taaocotaytrai": { "x": 535.5, "y": -1569.5, "width": 257, "height": 171 }
+		},
+		"Bantaytrai": {
+			"Bantaytrai": { "x": 616, "y": -1564, "width": 196, "height": 268 }
+		},
+		"Cotaytrai1": {
+			"Cotaytrai1": { "x": 526.5, "y": -1309, "width": 275, "height": 688 }
+		},
+		"Taytrai": {
+			"Taytrai": { "x": 494, "y": -966, "width": 326, "height": 444 }
+		},
+		"Tayphai1": {
+			"Tayphai1": { "x": 1160, "y": -951, "width": 256, "height": 416 }
+		},
+		"Taophai": {
+			"Taophai": { "x": 1130.5, "y": -1499.5, "width": 345, "height": 1713 }
+		},
+		"Rau1": {
+			"Rau1": { "x": 935, "y": -687.5, "width": 128, "height": 241 }
+		},
+		"Toc": {
+			"Toc": { "x": 882, "y": -531, "width": 316, "height": 484 }
+		},
+		"Tocmaiphai": {
+			"Tocmaiphai": { "x": 1001, "y": -503, "width": 116, "height": 272 }
+		},
+		"Lotai": {
+			"Lotai": { "x": 781.5, "y": -518.5, "width": 61, "height": 115 }
+		},
+		"Tocmaitrai": {
+			"Tocmaitrai": { "x": 834, "y": -587.5, "width": 192, "height": 441 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

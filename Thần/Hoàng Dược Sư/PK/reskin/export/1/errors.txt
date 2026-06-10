@@ -1,0 +1,53 @@
+Multiple layers for the "default" skin in the "Dau" slot have the same name "Dau":
+Góc Nghiêng/Dau
+Góc Nghiêng/Đầu/Group 1/Dau
+Mặt Sau/Dau
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Chanphai" slot have the same name "Chanphai":
+Góc Nghiêng/Chân/Chanphai
+Mặt Sau/Chanphai
+Mặt Trước/Chân/Chanphai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Chantrai" slot have the same name "Chantrai":
+Góc Nghiêng/Chân/Chantrai
+Mặt Sau/Chantrai
+Mặt Trước/Chân/Chantrai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Tayphai" slot have the same name "Tayphai":
+Mặt Sau/Tayphai
+Mặt Sau/Tayphai
+Mặt Trước/Tayphai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Vuongniem" slot have the same name "Vuongniem":
+Mặt Sau/Vuongniem
+Mặt Trước/Vuongniem
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Cotayphai" slot have the same name "Cotayphai":
+Mặt Sau/Cotayphai
+Mặt Trước/Cotayphai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Taaotrai" slot have the same name "Taaotrai":
+Góc Nghiêng/Taaotrai
+Mặt Trước/Taaotrai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Cotaytrai" slot have the same name "Cotaytrai":
+Mặt Sau/Cotaytrai
+Mặt Trước/Cotaytrai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Taytrai" slot have the same name "Taytrai":
+Mặt Sau/Taytrai
+Mặt Trước/Taytrai
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "Rau" slot have the same name "Rau":
+Góc Nghiêng/Đầu/Group 1/Rau
+Mặt Trước/Rau
+Rename or use the [ignore] tag for these layers.

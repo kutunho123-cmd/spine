@@ -1,40 +1,40 @@
 
 405007.png
-size: 870,522
+size: 854,522
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bldabi
-  rotate: true
-  xy: 783, 233
+  rotate: false
+  xy: 602, 81
   size: 51, 85
   orig: 51, 85
   offset: 0, 0
   index: -1
 bljiao
   rotate: false
-  xy: 682, 63
+  xy: 757, 74
   size: 73, 40
   orig: 73, 40
   offset: 0, 0
   index: -1
 blxiaobi1
   rotate: true
-  xy: 459, 247
+  xy: 496, 227
   size: 54, 120
   orig: 54, 120
   offset: 0, 0
   index: -1
 blxiaobi2
-  rotate: false
-  xy: 334, 64
+  rotate: true
+  xy: 212, 161
   size: 82, 179
   orig: 82, 179
   offset: 0, 0
   index: -1
 blxiaotui
   rotate: true
-  xy: 567, 158
+  xy: 397, 89
   size: 72, 114
   orig: 72, 114
   offset: 0, 0
@@ -55,21 +55,21 @@ bqunbai
   index: -1
 brdabi
   rotate: true
-  xy: 482, 60
+  xy: 507, 4
   size: 71, 98
   orig: 71, 98
   offset: 0, 0
   index: -1
 brjiao
-  rotate: true
-  xy: 835, 287
+  rotate: false
+  xy: 757, 39
   size: 58, 33
   orig: 58, 33
   offset: 0, 0
   index: -1
 brxiaobi
   rotate: true
-  xy: 553, 310
+  xy: 223, 14
   size: 81, 141
   orig: 81, 141
   offset: 0, 0
@@ -83,35 +83,35 @@ brxiaotui
   index: -1
 btou
   rotate: true
-  xy: 582, 76
+  xy: 393, 163
   size: 80, 98
   orig: 80, 98
   offset: 0, 0
   index: -1
 bxiongqiang
   rotate: false
-  xy: 212, 93
+  xy: 729, 370
   size: 120, 150
   orig: 120, 150
   offset: 0, 0
   index: -1
 cljiao
   rotate: false
-  xy: 446, 7
+  xy: 783, 256
   size: 69, 51
   orig: 69, 51
   offset: 0, 0
   index: -1
 crshouzhi1
   rotate: true
-  xy: 818, 130
+  xy: 618, 224
   size: 29, 46
   orig: 29, 46
   offset: 0, 0
   index: -1
 crxiaobi
   rotate: true
-  xy: 729, 397
+  xy: 553, 333
   size: 58, 139
   orig: 58, 139
   offset: 0, 0
@@ -124,43 +124,29 @@ zbiyan
   offset: 0, 0
   index: -1
 zdiaozui1
-  rotate: false
-  xy: 670, 10
+  rotate: true
+  xy: 602, 182
   size: 40, 51
   orig: 40, 51
   offset: 0, 0
   index: -1
 zdiaozui2
   rotate: true
-  xy: 683, 168
+  xy: 493, 187
   size: 38, 99
   orig: 38, 99
   offset: 0, 0
   index: -1
-zfouzhu
-  rotate: false
-  xy: 683, 105
-  size: 75, 61
-  orig: 75, 61
-  offset: 0, 0
-  index: -1
-zfouzhuhou
-  rotate: false
-  xy: 760, 133
-  size: 56, 26
-  orig: 56, 26
-  offset: 0, 0
-  index: -1
 zldabi
-  rotate: true
-  xy: 582, 10
+  rotate: false
+  xy: 783, 168
   size: 64, 86
   orig: 64, 86
   offset: 0, 0
   index: -1
 zljiao
   rotate: true
-  xy: 517, 8
+  xy: 783, 116
   size: 50, 61
   orig: 50, 61
   offset: 0, 0
@@ -173,22 +159,22 @@ zlqunbai
   offset: 0, 0
   index: -1
 zlrjiao
-  rotate: false
-  xy: 333, 14
+  rotate: true
+  xy: 733, 148
   size: 74, 48
   orig: 74, 48
   offset: 0, 0
   index: -1
 zlrxiuzi
   rotate: true
-  xy: 729, 457
+  xy: 366, 24
   size: 63, 139
   orig: 63, 139
   offset: 0, 0
   index: -1
 zlshouzhi1
-  rotate: true
-  xy: 712, 13
+  rotate: false
+  xy: 757, 2
   size: 48, 35
   orig: 48, 35
   offset: 0, 0
@@ -208,29 +194,29 @@ zlxiaobihou
   offset: 0, 0
   index: -1
 zlxiaotui
-  rotate: true
-  xy: 223, 4
+  rotate: false
+  xy: 513, 77
   size: 87, 108
   orig: 87, 108
   offset: 0, 0
   index: -1
 zpijian
   rotate: true
-  xy: 409, 2
+  xy: 459, 245
   size: 56, 35
   orig: 56, 35
   offset: 0, 0
   index: -1
 zrbiyan
   rotate: false
-  xy: 528, 322
+  xy: 694, 375
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 zrdabi
-  rotate: true
-  xy: 784, 161
+  rotate: false
+  xy: 607, 3
   size: 70, 76
   orig: 70, 76
   offset: 0, 0
@@ -243,64 +229,64 @@ zrqunbai
   offset: 0, 0
   index: -1
 zrqunbai2
-  rotate: false
-  xy: 418, 60
+  rotate: true
+  xy: 212, 97
   size: 62, 183
   orig: 62, 183
   offset: 0, 0
   index: -1
 zrshouzhi1
-  rotate: true
-  xy: 760, 106
+  rotate: false
+  xy: 817, 17
   size: 25, 55
   orig: 25, 55
   offset: 0, 0
   index: -1
 zrxiaobi
   rotate: false
-  xy: 817, 103
+  xy: 733, 121
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 zrxiaotui
-  rotate: false
-  xy: 482, 133
+  rotate: true
+  xy: 669, 224
   size: 83, 112
   orig: 83, 112
   offset: 0, 0
   index: -1
 zrxiuzihou
   rotate: true
-  xy: 696, 286
+  xy: 694, 309
   size: 59, 137
   orig: 59, 137
   offset: 0, 0
   index: -1
 zshouchuan1
-  rotate: false
-  xy: 749, 12
+  rotate: true
+  xy: 618, 255
   size: 26, 49
   orig: 26, 49
   offset: 0, 0
   index: -1
 zshouchuan2
   rotate: false
-  xy: 696, 347
+  xy: 833, 324
   size: 19, 44
   orig: 19, 44
   offset: 0, 0
   index: -1
 zwuguang
-  rotate: true
-  xy: 687, 208
+  rotate: false
+  xy: 679, 22
   size: 76, 94
   orig: 76, 94
   offset: 0, 0
   index: -1
 zxdatui
-  rotate: true
-  xy: 581, 232
+  rotate: false
+  xy: 655, 118
   size: 76, 104
   orig: 76, 104
   offset: 0, 0
@@ -314,14 +300,14 @@ zxiongqiang
   index: -1
 zxiuzi124
   rotate: true
-  xy: 729, 347
+  xy: 528, 283
   size: 48, 139
   orig: 48, 139
   offset: 0, 0
   index: -1
 zzhangzui
   rotate: true
-  xy: 528, 340
+  xy: 493, 163
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
