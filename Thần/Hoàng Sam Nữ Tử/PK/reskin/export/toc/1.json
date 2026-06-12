@@ -1,0 +1,73 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Thần/Hoàng Sam Nữ Tử/PK/reskin/export/toc/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "toc1", "bone": "root", "attachment": "toc1" },
+	{ "name": "toc5", "bone": "root", "attachment": "toc5" },
+	{ "name": "toc9", "bone": "root", "attachment": "toc9" },
+	{ "name": "toc8", "bone": "root", "attachment": "toc8" },
+	{ "name": "toc7", "bone": "root", "attachment": "toc7" },
+	{ "name": "toc4", "bone": "root", "attachment": "toc4" },
+	{ "name": "toc3", "bone": "root", "attachment": "toc3" },
+	{ "name": "toc2", "bone": "root", "attachment": "toc2" },
+	{ "name": "hoatiet3", "bone": "root", "attachment": "hoatiet3" },
+	{ "name": "hoattiet2", "bone": "root", "attachment": "hoattiet2" },
+	{ "name": "caitoc1", "bone": "root", "attachment": "caitoc1" },
+	{ "name": "caitoc", "bone": "root", "attachment": "caitoc" },
+	{ "name": "hoatiet", "bone": "root", "attachment": "hoatiet" },
+	{ "name": "caitoc4", "bone": "root", "attachment": "caitoc4" },
+	{ "name": "caitoc3", "bone": "root", "attachment": "caitoc3" }
+],
+"skins": {
+	"default": {
+		"toc1": {
+			"toc1": { "x": 1447.5, "y": -1829.5, "width": 2101, "height": 3247 }
+		},
+		"toc5": {
+			"toc5": { "x": 2005, "y": -1742.5, "width": 662, "height": 1537 }
+		},
+		"toc9": {
+			"toc9": { "x": 813.5, "y": -2023, "width": 1069, "height": 2368 }
+		},
+		"toc8": {
+			"toc8": { "x": 741, "y": -1647, "width": 1158, "height": 1776 }
+		},
+		"toc7": {
+			"toc7": { "x": 794.5, "y": -1470, "width": 855, "height": 1426 }
+		},
+		"toc4": {
+			"toc4": { "x": 1828.5, "y": -1543, "width": 333, "height": 1424 }
+		},
+		"toc3": {
+			"toc3": { "x": 1462, "y": -1550.5, "width": 362, "height": 1597 }
+		},
+		"toc2": {
+			"toc2": { "x": 1528.5, "y": -842, "width": 859, "height": 540 }
+		},
+		"hoatiet3": {
+			"hoatiet3": { "x": 1532.5, "y": -795.5, "width": 851, "height": 1085 }
+		},
+		"hoattiet2": {
+			"hoattiet2": { "x": 1532.5, "y": -649, "width": 807, "height": 368 }
+		},
+		"caitoc1": {
+			"caitoc1": { "x": 1136, "y": -511, "width": 300, "height": 86 }
+		},
+		"caitoc": {
+			"caitoc": { "x": 1088, "y": -632.5, "width": 230, "height": 119 }
+		},
+		"hoatiet": {
+			"hoatiet": { "x": 939, "y": -974.5, "width": 254, "height": 647 }
+		},
+		"caitoc4": {
+			"caitoc4": { "x": 1896.5, "y": -562, "width": 111, "height": 50 }
+		},
+		"caitoc3": {
+			"caitoc3": { "x": 1854.5, "y": -460.5, "width": 141, "height": 59 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

@@ -1,0 +1,49 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Thần/Hoàng Sam Nữ Tử/PK/reskin/export/mai/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "mai9", "bone": "root", "attachment": "mai9" },
+	{ "name": "mai8", "bone": "root", "attachment": "mai8" },
+	{ "name": "mai7", "bone": "root", "attachment": "mai7" },
+	{ "name": "mai6", "bone": "root", "attachment": "mai6" },
+	{ "name": "mai5", "bone": "root", "attachment": "mai5" },
+	{ "name": "mai4", "bone": "root", "attachment": "mai4" },
+	{ "name": "mai3", "bone": "root", "attachment": "mai3" },
+	{ "name": "mai2", "bone": "root", "attachment": "mai2" },
+	{ "name": "mai1", "bone": "root", "attachment": "mai1" }
+],
+"skins": {
+	"default": {
+		"mai9": {
+			"mai9": { "x": 220, "y": -67, "width": 244, "height": 134 }
+		},
+		"mai8": {
+			"mai8": { "x": 304, "y": -136, "width": 96, "height": 216 }
+		},
+		"mai7": {
+			"mai7": { "x": 291, "y": -132, "width": 96, "height": 212 }
+		},
+		"mai6": {
+			"mai6": { "x": 189.5, "y": -122.5, "width": 121, "height": 193 }
+		},
+		"mai5": {
+			"mai5": { "x": 275, "y": -129.5, "width": 84, "height": 217 }
+		},
+		"mai4": {
+			"mai4": { "x": 254, "y": -129.5, "width": 72, "height": 209 }
+		},
+		"mai3": {
+			"mai3": { "x": 206.5, "y": -120.5, "width": 99, "height": 205 }
+		},
+		"mai2": {
+			"mai2": { "x": 146, "y": -118.5, "width": 176, "height": 211 }
+		},
+		"mai1": {
+			"mai1": { "x": 116, "y": -252, "width": 232, "height": 504 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

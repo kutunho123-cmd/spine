@@ -1,0 +1,85 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Thủy/Chu Bá  Thông/PK/pk/export/2/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "chanphai3", "bone": "root", "attachment": "chanphai3" },
+	{ "name": "chanphai1", "bone": "root", "attachment": "chanphai1" },
+	{ "name": "chanphai2", "bone": "root", "attachment": "chanphai2" },
+	{ "name": "chantrai1", "bone": "root", "attachment": "chantrai1" },
+	{ "name": "chantrai3", "bone": "root", "attachment": "chantrai3" },
+	{ "name": "chantrai2", "bone": "root", "attachment": "chantrai2" },
+	{ "name": "tayphai3", "bone": "root", "attachment": "tayphai3" },
+	{ "name": "tayphai1", "bone": "root", "attachment": "tayphai1" },
+	{ "name": "tayphai2", "bone": "root", "attachment": "tayphai2" },
+	{ "name": "Layer 10", "bone": "root", "attachment": "Layer 10" },
+	{ "name": "taytrai3", "bone": "root", "attachment": "taytrai3" },
+	{ "name": "taytrai1", "bone": "root", "attachment": "taytrai1" },
+	{ "name": "taytrai2", "bone": "root", "attachment": "taytrai2" },
+	{ "name": "dau", "bone": "root", "attachment": "dau" },
+	{ "name": "ao", "bone": "root", "attachment": "ao" },
+	{ "name": "dailung", "bone": "root", "attachment": "dailung" },
+	{ "name": "holo", "bone": "root", "attachment": "holo" },
+	{ "name": "daydeo", "bone": "root", "attachment": "daydeo" }
+],
+"skins": {
+	"default": {
+		"chanphai3": {
+			"chanphai3": { "x": 1196, "y": -2551.5, "width": 258, "height": 283 }
+		},
+		"chanphai1": {
+			"chanphai1": { "x": 961, "y": -1918, "width": 478, "height": 782 }
+		},
+		"chanphai2": {
+			"chanphai2": { "x": 1072, "y": -2348, "width": 280, "height": 362 }
+		},
+		"chantrai1": {
+			"chantrai1": { "x": 619.5, "y": -1930.5, "width": 499, "height": 803 }
+		},
+		"chantrai3": {
+			"chantrai3": { "x": 487, "y": -2546, "width": 332, "height": 288 }
+		},
+		"chantrai2": {
+			"chantrai2": { "x": 565, "y": -2364.5, "width": 238, "height": 333 }
+		},
+		"tayphai3": {
+			"tayphai3": { "x": 1144.5, "y": -1373.5, "width": 371, "height": 257 }
+		},
+		"tayphai1": {
+			"tayphai1": { "x": 1184, "y": -1080, "width": 418, "height": 462 }
+		},
+		"tayphai2": {
+			"tayphai2": { "x": 1247, "y": -1295, "width": 292, "height": 270 }
+		},
+		"Layer 10": {
+			"Layer 10": { "x": 438, "y": -985.5, "width": 174, "height": 397 }
+		},
+		"taytrai3": {
+			"taytrai3": { "x": 380.5, "y": -1340, "width": 357, "height": 256 }
+		},
+		"taytrai1": {
+			"taytrai1": { "x": 365, "y": -1055, "width": 488, "height": 484 }
+		},
+		"taytrai2": {
+			"taytrai2": { "x": 271.5, "y": -1257, "width": 301, "height": 276 }
+		},
+		"dau": {
+			"dau": { "x": 781.5, "y": -430, "width": 413, "height": 660 }
+		},
+		"ao": {
+			"ao": { "x": 782, "y": -1047.5, "width": 856, "height": 807 }
+		},
+		"dailung": {
+			"dailung": { "x": 760, "y": -1518, "width": 784, "height": 584 }
+		},
+		"holo": {
+			"holo": { "x": 1175, "y": -1637.5, "width": 422, "height": 551 }
+		},
+		"daydeo": {
+			"daydeo": { "x": 1099, "y": -1809, "width": 256, "height": 326 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

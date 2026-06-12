@@ -1,0 +1,97 @@
+{ "skeleton": { "images": "D:/CharGameMoi/spine40/spine/Thần/Hoàng Dược Sư/PK/reskin/export/1/" },
+"PhotoshopToSpine": { "scale": 0.1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "toc1", "bone": "root", "attachment": "toc1" },
+	{ "name": "toc5", "bone": "root", "attachment": "toc5" },
+	{ "name": "toc9", "bone": "root", "attachment": "toc9" },
+	{ "name": "toc8", "bone": "root", "attachment": "toc8" },
+	{ "name": "toc7", "bone": "root", "attachment": "toc7" },
+	{ "name": "toc4", "bone": "root", "attachment": "toc4" },
+	{ "name": "mat", "bone": "root", "attachment": "mat" },
+	{ "name": "toc3", "bone": "root", "attachment": "toc3" },
+	{ "name": "mat1", "bone": "root", "attachment": "mat1" },
+	{ "name": "tronden", "bone": "root", "attachment": "tronden" },
+	{ "name": "mat2", "bone": "root", "attachment": "mat2" },
+	{ "name": "tronden2", "bone": "root", "attachment": "tronden2" },
+	{ "name": "toc91", "bone": "root", "attachment": "toc91" },
+	{ "name": "toc2", "bone": "root", "attachment": "toc2" },
+	{ "name": "hoatiet3", "bone": "root", "attachment": "hoatiet3" },
+	{ "name": "hoattiet2", "bone": "root", "attachment": "hoattiet2" },
+	{ "name": "caitoc1", "bone": "root", "attachment": "caitoc1" },
+	{ "name": "caitoc", "bone": "root", "attachment": "caitoc" },
+	{ "name": "hoatiet", "bone": "root", "attachment": "hoatiet" },
+	{ "name": "caitoc4", "bone": "root", "attachment": "caitoc4" },
+	{ "name": "caitoc3", "bone": "root", "attachment": "caitoc3" }
+],
+"skins": {
+	"default": {
+		"toc1": {
+			"toc1": { "x": 144.8, "y": -183.2, "width": 212, "height": 327 }
+		},
+		"toc5": {
+			"toc5": { "x": 200.5, "y": -174.5, "width": 68, "height": 156 }
+		},
+		"toc9": {
+			"toc9": { "x": 81.5, "y": -202.5, "width": 109, "height": 239 }
+		},
+		"toc8": {
+			"toc8": { "x": 74.3, "y": -164.5, "width": 118, "height": 179 }
+		},
+		"toc7": {
+			"toc7": { "x": 79.3, "y": -146.8, "width": 87, "height": 144 }
+		},
+		"toc4": {
+			"toc4": { "x": 182.8, "y": -154.2, "width": 35, "height": 144 }
+		},
+		"mat": {
+			"mat": { "x": 155.3, "y": -91.1, "width": 67, "height": 87 }
+		},
+		"toc3": {
+			"toc3": { "x": 146.2, "y": -155.3, "width": 38, "height": 162 }
+		},
+		"mat1": {
+			"mat1": { "x": 150.5, "y": -98.1, "width": 22, "height": 14 }
+		},
+		"tronden": {
+			"tronden": { "x": 150.7, "y": -98.7, "width": 10, "height": 8 }
+		},
+		"mat2": {
+			"mat2": { "x": 177.8, "y": -101.8, "width": 18, "height": 14 }
+		},
+		"tronden2": {
+			"tronden2": { "x": 174.6, "y": -102.3, "width": 9, "height": 7 }
+		},
+		"toc91": {
+			"toc91": { "x": 153.3, "y": -67.7, "width": 87, "height": 58 }
+		},
+		"toc2": {
+			"toc2": { "x": 153, "y": -84.3, "width": 88, "height": 56 }
+		},
+		"hoatiet3": {
+			"hoatiet3": { "x": 154.7, "y": -35.9, "width": 48, "height": 23 }
+		},
+		"hoattiet2": {
+			"hoattiet2": { "x": 153.5, "y": -65.1, "width": 83, "height": 39 }
+		},
+		"caitoc1": {
+			"caitoc1": { "x": 113.7, "y": -50.9, "width": 32, "height": 10 }
+		},
+		"caitoc": {
+			"caitoc": { "x": 108.9, "y": -63.4, "width": 25, "height": 14 }
+		},
+		"hoatiet": {
+			"hoatiet": { "x": 93.8, "y": -97.7, "width": 27, "height": 67 }
+		},
+		"caitoc4": {
+			"caitoc4": { "x": 189.7, "y": -56.3, "width": 13, "height": 7 }
+		},
+		"caitoc3": {
+			"caitoc3": { "x": 185.5, "y": -46.2, "width": 16, "height": 8 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
