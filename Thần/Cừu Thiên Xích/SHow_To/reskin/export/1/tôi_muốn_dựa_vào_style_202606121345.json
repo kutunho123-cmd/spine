@@ -1,0 +1,205 @@
+{ "skeleton": { "images": "C:/Users/ADMIN/Desktop/40spine/Thần/Cừu Thiên Xích/SHow_To/reskin/export/1/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "daydeo1", "bone": "root", "attachment": "daydeo1" },
+	{ "name": "vaiquan3", "bone": "root", "attachment": "vaiquan3" },
+	{ "name": "ngontaytrai1", "bone": "root", "attachment": "ngontaytrai1" },
+	{ "name": "taytrai2", "bone": "root", "attachment": "taytrai2" },
+	{ "name": "taytrai1", "bone": "root", "attachment": "taytrai1" },
+	{ "name": "ngontaytrai2", "bone": "root", "attachment": "ngontaytrai2" },
+	{ "name": "ngontaytrai3", "bone": "root", "attachment": "ngontaytrai3" },
+	{ "name": "ngontaytrai5", "bone": "root", "attachment": "ngontaytrai5" },
+	{ "name": "ngontaytrai4", "bone": "root", "attachment": "ngontaytrai4" },
+	{ "name": "co", "bone": "root", "attachment": "co" },
+	{ "name": "ao", "bone": "root", "attachment": "ao" },
+	{ "name": "toc4", "bone": "root", "attachment": "toc4" },
+	{ "name": "toc11", "bone": "root", "attachment": "toc11" },
+	{ "name": "toc2", "bone": "root", "attachment": "toc2" },
+	{ "name": "toc3", "bone": "root", "attachment": "toc3" },
+	{ "name": "tayphai1", "bone": "root", "attachment": "tayphai1" },
+	{ "name": "tayphai3", "bone": "root", "attachment": "tayphai3" },
+	{ "name": "tayphai4", "bone": "root", "attachment": "tayphai4" },
+	{ "name": "mat", "bone": "root", "attachment": "mat" },
+	{ "name": "tayphai2", "bone": "root", "attachment": "tayphai2" },
+	{ "name": "aovaiphai", "bone": "root", "attachment": "aovaiphai" },
+	{ "name": "longmay", "bone": "root", "attachment": "longmay" },
+	{ "name": "toc9", "bone": "root", "attachment": "toc9" },
+	{ "name": "toc8", "bone": "root", "attachment": "toc8" },
+	{ "name": "toc7", "bone": "root", "attachment": "toc7" },
+	{ "name": "toc6", "bone": "root", "attachment": "toc6" },
+	{ "name": "toc10", "bone": "root", "attachment": "toc10" },
+	{ "name": "toc5", "bone": "root", "attachment": "toc5" },
+	{ "name": "toc44", "bone": "root", "attachment": "toc44" },
+	{ "name": "toc100", "bone": "root", "attachment": "toc100" },
+	{ "name": "toc1", "bone": "root", "attachment": "toc1" },
+	{ "name": "vaisauquan1", "bone": "root", "attachment": "vaisauquan1" },
+	{ "name": "chanphai1", "bone": "root", "attachment": "chanphai1" },
+	{ "name": "chanphai3", "bone": "root", "attachment": "chanphai3" },
+	{ "name": "chantrai1", "bone": "root", "attachment": "chantrai1" },
+	{ "name": "chantrai2", "bone": "root", "attachment": "chantrai2" },
+	{ "name": "caygay", "bone": "root", "attachment": "caygay" },
+	{ "name": "chanphai2", "bone": "root", "attachment": "chanphai2" },
+	{ "name": "tayphai5", "bone": "root", "attachment": "tayphai5" },
+	{ "name": "Layer 37", "bone": "root", "attachment": "Layer 37" },
+	{ "name": "vaiquan2", "bone": "root", "attachment": "vaiquan2" },
+	{ "name": "vaiquan1", "bone": "root", "attachment": "vaiquan1" },
+	{ "name": "vaitaytrai", "bone": "root", "attachment": "vaitaytrai" },
+	{ "name": "vaigiua", "bone": "root", "attachment": "vaigiua" },
+	{ "name": "dailung", "bone": "root", "attachment": "dailung" },
+	{ "name": "daydeoco", "bone": "root", "attachment": "daydeoco" },
+	{ "name": "daydeoco1", "bone": "root", "attachment": "daydeoco1" },
+	{ "name": "chanphai33", "bone": "root", "attachment": "chanphai33" }
+],
+"skins": {
+	"default": {
+		"daydeo1": {
+			"daydeo1": { "x": 1143, "y": 2645.5, "width": 486, "height": 947 }
+		},
+		"vaiquan3": {
+			"vaiquan3": { "x": -76, "y": 2367, "width": 1894, "height": 2902 }
+		},
+		"ngontaytrai1": {
+			"ngontaytrai1": { "x": 1244.5, "y": 3289.5, "width": 139, "height": 299 }
+		},
+		"taytrai2": {
+			"taytrai2": { "x": 758.5, "y": 3291.5, "width": 1119, "height": 723 }
+		},
+		"taytrai1": {
+			"taytrai1": { "x": 457, "y": 3336.5, "width": 516, "height": 727 }
+		},
+		"ngontaytrai2": {
+			"ngontaytrai2": { "x": 1316, "y": 3236.5, "width": 284, "height": 187 }
+		},
+		"ngontaytrai3": {
+			"ngontaytrai3": { "x": 1281.5, "y": 3147, "width": 263, "height": 170 }
+		},
+		"ngontaytrai5": {
+			"ngontaytrai5": { "x": 1154.5, "y": 3083.5, "width": 159, "height": 173 }
+		},
+		"ngontaytrai4": {
+			"ngontaytrai4": { "x": 1187, "y": 3132.5, "width": 214, "height": 215 }
+		},
+		"co": {
+			"co": { "x": 145.5, "y": 3827.5, "width": 389, "height": 559 }
+		},
+		"ao": {
+			"ao": { "x": 51, "y": 3339, "width": 1138, "height": 1372 }
+		},
+		"toc4": {
+			"toc4": { "x": 559, "y": 3964.5, "width": 258, "height": 631 }
+		},
+		"toc11": {
+			"toc11": { "x": 427.5, "y": 3750.5, "width": 317, "height": 763 }
+		},
+		"toc2": {
+			"toc2": { "x": 577, "y": 4423.5, "width": 348, "height": 393 }
+		},
+		"toc3": {
+			"toc3": { "x": 606.5, "y": 4164, "width": 345, "height": 454 }
+		},
+		"tayphai1": {
+			"tayphai1": { "x": -596.5, "y": 3179.5, "width": 901, "height": 1443 }
+		},
+		"tayphai3": {
+			"tayphai3": { "x": -1077, "y": 2846, "width": 626, "height": 1248 }
+		},
+		"tayphai4": {
+			"tayphai4": { "x": -960, "y": 3353.5, "width": 590, "height": 443 }
+		},
+		"mat": {
+			"mat": { "x": 261, "y": 4140, "width": 504, "height": 718 }
+		},
+		"tayphai2": {
+			"tayphai2": { "x": -1004.5, "y": 2846.5, "width": 667, "height": 1403 }
+		},
+		"aovaiphai": {
+			"aovaiphai": { "x": -373, "y": 3555.5, "width": 724, "height": 985 }
+		},
+		"longmay": {
+			"longmay": { "x": 359.5, "y": 4198, "width": 341, "height": 96 }
+		},
+		"toc9": {
+			"toc9": { "x": -171.5, "y": 4015, "width": 331, "height": 468 }
+		},
+		"toc8": {
+			"toc8": { "x": -14, "y": 3739, "width": 280, "height": 902 }
+		},
+		"toc7": {
+			"toc7": { "x": -117.5, "y": 4098, "width": 423, "height": 490 }
+		},
+		"toc6": {
+			"toc6": { "x": -108, "y": 4142.5, "width": 482, "height": 411 }
+		},
+		"toc10": {
+			"toc10": { "x": 19.5, "y": 4116.5, "width": 333, "height": 587 }
+		},
+		"toc5": {
+			"toc5": { "x": -78.5, "y": 4255, "width": 649, "height": 442 }
+		},
+		"toc44": {
+			"toc44": { "x": -29.5, "y": 4468, "width": 765, "height": 198 }
+		},
+		"toc100": {
+			"toc100": { "x": 252.5, "y": 4328.5, "width": 183, "height": 241 }
+		},
+		"toc1": {
+			"toc1": { "x": 120.5, "y": 4551, "width": 737, "height": 350 }
+		},
+		"vaisauquan1": {
+			"vaisauquan1": { "x": -551, "y": 1940.5, "width": 316, "height": 485 }
+		},
+		"chanphai1": {
+			"chanphai1": { "x": -336, "y": 1687.5, "width": 856, "height": 1775 }
+		},
+		"chanphai3": {
+			"chanphai3": { "x": 660.5, "y": 152, "width": 509, "height": 522 }
+		},
+		"chantrai1": {
+			"chantrai1": { "x": 443, "y": 1708.5, "width": 730, "height": 1599 }
+		},
+		"chantrai2": {
+			"chantrai2": { "x": 560, "y": 724, "width": 500, "height": 962 }
+		},
+		"caygay": {
+			"caygay": { "x": -1312.5, "y": 2554.5, "width": 671, "height": 5465 }
+		},
+		"chanphai2": {
+			"chanphai2": { "x": -531, "y": 679.5, "width": 550, "height": 991 }
+		},
+		"tayphai5": {
+			"tayphai5": { "x": -1121, "y": 3491, "width": 268, "height": 368 }
+		},
+		"Layer 37": {
+			"Layer 37": { "x": 161, "y": 3179.5, "width": 602, "height": 699 }
+		},
+		"vaiquan2": {
+			"vaiquan2": { "x": 228, "y": 1387.5, "width": 752, "height": 1627 }
+		},
+		"vaiquan1": {
+			"vaiquan1": { "x": 105, "y": 1830, "width": 1620, "height": 1710 }
+		},
+		"vaitaytrai": {
+			"vaitaytrai": { "x": 643, "y": 3054, "width": 444, "height": 884 }
+		},
+		"vaigiua": {
+			"vaigiua": { "x": 60.5, "y": 2023, "width": 695, "height": 1264 }
+		},
+		"dailung": {
+			"dailung": { "x": 49, "y": 2431.5, "width": 1238, "height": 979 }
+		},
+		"daydeoco": {
+			"daydeoco": { "x": 131, "y": 3203.5, "width": 462, "height": 399 }
+		},
+		"daydeoco1": {
+			"daydeoco1": { "x": 529.5, "y": 3580, "width": 1247, "height": 778 }
+		},
+		"chanphai33": {
+			"chanphai33": { "x": -724, "y": 81.5, "width": 428, "height": 587 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
