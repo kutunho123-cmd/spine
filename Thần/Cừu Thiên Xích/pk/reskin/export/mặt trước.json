@@ -1,0 +1,109 @@
+{ "skeleton": { "images": "C:/Users/ADMIN/Desktop/40spine/Thần/Cừu Thiên Xích/pk/reskin/export/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "tayphai1", "bone": "root", "attachment": "tayphai1" },
+	{ "name": "vai3", "bone": "root", "attachment": "vai3" },
+	{ "name": "chantrai1", "bone": "root", "attachment": "chantrai1" },
+	{ "name": "chantrai2", "bone": "root", "attachment": "chantrai2" },
+	{ "name": "tayphai5", "bone": "root", "attachment": "tayphai5" },
+	{ "name": "chanphai3", "bone": "root", "attachment": "chanphai3" },
+	{ "name": "chanphai2", "bone": "root", "attachment": "chanphai2" },
+	{ "name": "chanphai1", "bone": "root", "attachment": "chanphai1" },
+	{ "name": "vaitruoc", "bone": "root", "attachment": "vaitruoc" },
+	{ "name": "ao", "bone": "root", "attachment": "ao" },
+	{ "name": "dailung", "bone": "root", "attachment": "dailung" },
+	{ "name": "tayphai4", "bone": "root", "attachment": "tayphai4" },
+	{ "name": "taytrai3", "bone": "root", "attachment": "taytrai3" },
+	{ "name": "tayphai3", "bone": "root", "attachment": "tayphai3" },
+	{ "name": "tayphai2", "bone": "root", "attachment": "tayphai2" },
+	{ "name": "taytrai4", "bone": "root", "attachment": "taytrai4" },
+	{ "name": "taytrai2", "bone": "root", "attachment": "taytrai2" },
+	{ "name": "tayphai12", "bone": "root", "attachment": "tayphai12" },
+	{ "name": "co", "bone": "root", "attachment": "co" },
+	{ "name": "dau", "bone": "root", "attachment": "dau" },
+	{ "name": "toc1", "bone": "root", "attachment": "toc1" },
+	{ "name": "toc2", "bone": "root", "attachment": "toc2" },
+	{ "name": "chantrai3", "bone": "root", "attachment": "chantrai3" },
+	{ "name": "vai2", "bone": "root", "attachment": "vai2" }
+],
+"skins": {
+	"default": {
+		"tayphai1": {
+			"tayphai1": { "x": 130, "y": 448.5, "width": 116, "height": 205 }
+		},
+		"vai3": {
+			"vai3": { "x": -109.5, "y": 232.5, "width": 593, "height": 315 }
+		},
+		"chantrai1": {
+			"chantrai1": { "x": 137.5, "y": 345.5, "width": 217, "height": 111 }
+		},
+		"chantrai2": {
+			"chantrai2": { "x": 178, "y": 261, "width": 136, "height": 182 }
+		},
+		"tayphai5": {
+			"tayphai5": { "x": 188.5, "y": 373.5, "width": 61, "height": 211 }
+		},
+		"chanphai3": {
+			"chanphai3": { "x": -153.5, "y": 11.5, "width": 95, "height": 113 }
+		},
+		"chanphai2": {
+			"chanphai2": { "x": -100.5, "y": 156, "width": 173, "height": 260 }
+		},
+		"chanphai1": {
+			"chanphai1": { "x": -46.5, "y": 301.5, "width": 159, "height": 241 }
+		},
+		"vaitruoc": {
+			"vaitruoc": { "x": -25.5, "y": 254.5, "width": 455, "height": 335 }
+		},
+		"ao": {
+			"ao": { "x": 29.5, "y": 517, "width": 241, "height": 256 }
+		},
+		"dailung": {
+			"dailung": { "x": -22, "y": 414, "width": 134, "height": 58 }
+		},
+		"tayphai4": {
+			"tayphai4": { "x": 222.5, "y": 478, "width": 203, "height": 136 }
+		},
+		"taytrai3": {
+			"taytrai3": { "x": -177.5, "y": 347, "width": 197, "height": 202 }
+		},
+		"tayphai3": {
+			"tayphai3": { "x": 159, "y": 374.5, "width": 110, "height": 209 }
+		},
+		"tayphai2": {
+			"tayphai2": { "x": 73.5, "y": 415.5, "width": 205, "height": 157 }
+		},
+		"taytrai4": {
+			"taytrai4": { "x": -79, "y": 394.5, "width": 206, "height": 123 }
+		},
+		"taytrai2": {
+			"taytrai2": { "x": -186, "y": 364.5, "width": 214, "height": 285 }
+		},
+		"tayphai12": {
+			"tayphai12": { "x": -102, "y": 537.5, "width": 226, "height": 247 }
+		},
+		"co": {
+			"co": { "x": 83, "y": 571, "width": 132, "height": 122 }
+		},
+		"dau": {
+			"dau": { "x": 142, "y": 608, "width": 112, "height": 144 }
+		},
+		"toc1": {
+			"toc1": { "x": 84, "y": 636.5, "width": 264, "height": 127 }
+		},
+		"toc2": {
+			"toc2": { "x": 125, "y": 712, "width": 64, "height": 60 }
+		},
+		"chantrai3": {
+			"chantrai3": { "x": 156, "y": 159.5, "width": 134, "height": 107 }
+		},
+		"vai2": {
+			"vai2": { "x": -300, "y": 154.5, "width": 188, "height": 127 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
