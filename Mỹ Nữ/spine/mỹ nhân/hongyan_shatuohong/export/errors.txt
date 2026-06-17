@@ -1,0 +1,14 @@
+Multiple layers for the "default" skin in the "vai10" slot have the same name "vai10":
+vai10
+vai10
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "vai11" slot have the same name "vai11":
+vai11
+vai11
+Rename or use the [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin in the "vai12" slot have the same name "vai12":
+vai12
+vai12
+Rename or use the [ignore] tag for these layers.
